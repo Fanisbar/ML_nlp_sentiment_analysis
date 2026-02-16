@@ -1,3 +1,6 @@
+# TODO: add readme files for three directories
+
+
 # Deep Machine Learning for Natural Language Processing  
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
