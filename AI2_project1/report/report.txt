@@ -1,0 +1,72 @@
+τα stopwords αυξάνουν το accuracy
+
+super αναλυτικό dictionary με πολλά πιθανά λάθη, εκτός από χαζή λύση, δν βελτιώνει το accuracy, τουλάχιστον όχι σημαντικά
+
+textblob, pyspellchecker πολύ αργές
+
+lemmatization & stemming ρίχνουν το accuracy
+
+spell checking με distance=2 στο spell consistently πολύ αργό(~20+mins)
+δοκίμασα επίσης hybrid spell checking, όλες οι λέξεις στο distance=1 και για όποιες δεν έβρισκε διόρθωση στο distance=2
+επίσης πάρα πολύ αργό και εν τέλει δεν βοήθησε στο accuracy
+
+δοκίμασα το εξής με slang και έριξε το accuracy:
+def remove_slang(text):
+    slang = {
+        "gr8": "great",
+        "gud": "good",
+        "bbq" : "barbeque",
+        "btw": "by the way",
+        "4all": "for all",
+        "yeah": "yes",
+        "cuz": "because",
+        "coz": "because",
+        "dis" : "this",
+        "dat" : "that",
+        "y'all" : "you all",
+        "nah": "no",
+        "nope": "no",
+        "omg": "oh my god",
+        "thankz" : "thanks",
+        "btwn": "between",
+        "cpl" : "couple",
+        "ty" : "thank you",
+        "imo" : "in my opinion",
+        "brb" : "be right back",
+        "ttyl" : "talk to you later",
+        "imho" : "in my honest opinion",
+        "fyi": "for your information",
+        "tbh" : "to be honest",
+        "nvm" : "nevermind",
+        "w/o" : "without",
+        "wyd" : "what are you doing",
+        "ikr": "I know, right?",
+        "ez" : "eazy",
+        "prolly" : "probably",
+        "gimme": "give me",
+        "lemme": "let me",
+        "thanx" : "thanks",
+        "dunno": "do not know",
+        "lmk": "let me know",
+        "2night": "tonight",
+        "2morrow": "tomorrow",
+        "b2b": "back to back",
+        "cya" : "see you",
+        "ya" : "you",
+        "lol" : "laugh out loud",
+        "lmao" : "laughing my ass out",
+        "lmfao" : "laughing my fucking ass out",
+        "rofl" : "rolling on the floor",
+        "roflmao" : "rolling on the floor laughing my ass out",
+        "streetz" : "streets",
+        "telly" : "television",
+        "tv" : "television"
+    }
+    for wrong, correct in slang.items():
+        text = re.sub(rf"\b{re.escape(wrong)}\b", correct, text)
+    return text
+ήταν λιγότερο κακό αν αυξήσω το n_gram range σε 1,3 ή 1,4 πχ αλλά και πάλι, χωρίς να ασχοληθώ με slang
+απέδιδε καλύτερο accuracy
+
+δοκίμασα το παρακάτω στην text_cleanup αλλά ρίχνει το accuracy
+text = re.sub(r'(\d+)([ap]m)', r'\1 \2', text) # handling mistakes like 1030pm -> 1030 pm, 0900am ->0900 am

@@ -1,0 +1,905 @@
+δικά μου 20/5
+
+187.8s	142	[I 2025-05-20 14:01:35,311] A new study created in memory with name: lr&wd_minim_study
+188.1s	143	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+188.1s	144	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+5733.2s	145	[I 2025-05-20 15:34:00,704] Trial 0 finished with value: 1.1549836508319289 and parameters: {'learning_rate': 1.971895995313763e-06, 'weight_decay': 0.0005897985829453132}. Best is trial 0 with value: 1.1549836508319289.
+5736.7s	146	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+5736.7s	147	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11280.0s	148	[I 2025-05-20 17:06:27,534] Trial 1 finished with value: 1.1058200837794487 and parameters: {'learning_rate': 3.2478272442875073e-06, 'weight_decay': 0.0003376015423553595}. Best is trial 1 with value: 1.1058200837794487.
+11283.7s	149	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+11283.7s	150	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+16848.9s	151	[I 2025-05-20 18:39:16,429] Trial 2 finished with value: 0.9336553885360096 and parameters: {'learning_rate': 1.52272621090375e-05, 'weight_decay': 0.003095018033837518}. Best is trial 2 with value: 0.9336553885360096.
+16849.3s	152	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+16849.3s	153	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+22410.8s	154	[I 2025-05-20 20:11:58,286] Trial 3 finished with value: 0.899291209756859 and parameters: {'learning_rate': 2.373414190971751e-05, 'weight_decay': 0.00031785087440834467}. Best is trial 3 with value: 0.899291209756859.
+22411.4s	155	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+22411.4s	156	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+27968.3s	157	[I 2025-05-20 21:44:35,789] Trial 4 finished with value: 1.1448319741846442 and parameters: {'learning_rate': 2.1413720126992203e-06, 'weight_decay': 1.9200134924278872e-06}. Best is trial 3 with value: 0.899291209756859.
+27968.3s	158	Best hyperparameters: {'learning_rate': 2.373414190971751e-05, 'weight_decay': 0.00031785087440834467}
+27968.7s	159	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+27968.7s	160	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+ειριάννα 20/5
+
+[I 2025-05-20 18:19:09,434] A new study created in memory with name: lr&wd_minim_study
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+[I 2025-05-20 19:51:07,176] Trial 0 finished with value: 1.0013792346030435 and parameters: {'learning_rate': 7.701078227687958e-06, 'weight_decay': 4.155479778339206e-05}. Best is trial 0 with value: 1.0013792346030435.
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+[I 2025-05-20 21:23:07,570] Trial 1 finished with value: 1.166835566098292 and parameters: {'learning_rate': 1.7581248704366099e-06, 'weight_decay': 6.756002980223409e-06}. Best is trial 0 with value: 1.0013792346030435.
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+POST RANDOM SEED:
+3 epochs
+
+179.8s	143	[I 2025-05-21 16:45:39,607] A new study created in memory with name: lr&wd_minim_study
+180.0s	144	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+180.0s	145	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+5807.3s	146	[I 2025-05-21 18:19:27,058] Trial 0 finished with value: 1.0256351025862624 and parameters: {'learning_rate': 6.603227876059843e-06, 'weight_decay': 1.5581879556318338e-05}. Best is trial 0 with value: 1.0256351025862624.
+5807.6s	147	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+5807.6s	148	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11441.7s	149	[I 2025-05-21 19:53:21,487] Trial 1 finished with value: 1.1305120960408086 and parameters: {'learning_rate': 2.5260623942297513e-06, 'weight_decay': 0.0047667734243689005}. Best is trial 0 with value: 1.0256351025862624.
+11442.0s	150	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+11442.0s	151	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+17082.9s	152	[I 2025-05-21 21:27:22,707] Trial 2 finished with value: 0.9448745857037478 and parameters: {'learning_rate': 1.3935203371023922e-05, 'weight_decay': 0.0007977566162120651}. Best is trial 2 with value: 0.9448745857037478.
+17083.2s	153	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+17083.2s	154	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+22702.7s	155	[I 2025-05-21 23:01:02,535] Trial 3 finished with value: 1.0325356728576827 and parameters: {'learning_rate': 6.468271446126714e-06, 'weight_decay': 0.00040227525878952514}. Best is trial 2 with value: 0.9448745857037478.
+22703.0s	156	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+22703.0s	157	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+28337.1s	158	[I 2025-05-22 00:34:56,869] Trial 4 finished with value: 1.1453363146856201 and parameters: {'learning_rate': 2.277221993532907e-06, 'weight_decay': 0.0018772467259335246}. Best is trial 2 with value: 0.9448745857037478.
+28337.1s	159	Best hyperparameters: {'learning_rate': 1.3935203371023922e-05, 'weight_decay': 0.0007977566162120651}
+
+[I 2025-05-21 20:46:52,284] A new study created in memory with name: lr&wd_minim_study
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+[I 2025-05-21 22:20:01,736] Trial 0 finished with value: 0.9216883690628564 and parameters: {'learning_rate': 1.6961056042006236e-05, 'weight_decay': 2.3391829824110108e-06}. Best is trial 0 with value: 0.9216883690628564.
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+[I 2025-05-21 23:53:18,969] Trial 1 finished with value: 1.113857440035204 and parameters: {'learning_rate': 3.0986174426431756e-06, 'weight_decay': 4.097733776897162e-06}. Best is trial 0 with value: 0.9216883690628564.
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+[I 2025-05-22 01:26:18,737] Trial 2 finished with value: 0.9318449864655559 and parameters: {'learning_rate': 4.5459036107005616e-05, 'weight_decay': 0.0009352946619721078}. Best is trial 0 with value: 0.9216883690628564.
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+[I 2025-05-22 02:59:27,835] Trial 3 finished with value: 0.9854640901729677 and parameters: {'learning_rate': 9.263226322590346e-06, 'weight_decay': 0.0002081631512813863}. Best is trial 0 with value: 0.9216883690628564.
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+[I 2025-05-22 04:32:36,326] Trial 4 finished with value: 0.920163052613996 and parameters: {'learning_rate': 1.8133378696056705e-05, 'weight_decay': 4.0906585031363795e-06}. Best is trial 4 with value: 0.920163052613996.
+Best hyperparameters: {'learning_rate': 1.8133378696056705e-05, 'weight_decay': 4.0906585031363795e-06}
+
+finalized but pre plots:
+
+2 epochs
+
+[I 2025-05-22 17:19:57,714] A new study created in memory with name: lr&wd_minim_study
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3870
+========== Epoch 2/2 ==========
+
+[I 2025-05-22 18:21:43,524] Trial 0 finished with value: 0.6744233742725777 and parameters: {'learning_rate': 2.1109108468873248e-05, 'weight_decay': 0.00034460235455611993}. Best is trial 0 with value: 0.6744233742725777.
+
+Epoch 2/2 - Loss: 0.2874
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.4293
+========== Epoch 2/2 ==========
+
+[I 2025-05-22 19:23:24,762] Trial 1 finished with value: 0.8045278863500243 and parameters: {'learning_rate': 2.697012446339147e-06, 'weight_decay': 7.77823450299798e-05}. Best is trial 0 with value: 0.6744233742725777.
+
+Epoch 2/2 - Loss: 0.3752
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3885
+========== Epoch 2/2 ==========
+
+[I 2025-05-22 20:25:08,819] Trial 2 finished with value: 0.671415283434244 and parameters: {'learning_rate': 2.43052354219902e-05, 'weight_decay': 0.00022086214949082762}. Best is trial 2 with value: 0.671415283434244.
+
+Epoch 2/2 - Loss: 0.2829
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3877
+========== Epoch 2/2 ==========
+
+[I 2025-05-22 21:27:03,050] Trial 3 finished with value: 0.6690228265284875 and parameters: {'learning_rate': 2.4761626279718006e-05, 'weight_decay': 2.879315739579493e-06}. Best is trial 3 with value: 0.6690228265284875.
+
+Epoch 2/2 - Loss: 0.2813
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3881
+========== Epoch 2/2 ==========
+
+[I 2025-05-22 22:28:55,245] Trial 4 finished with value: 0.662916437344832 and parameters: {'learning_rate': 2.9647958234836855e-05, 'weight_decay': 0.0039608439213304186}. Best is trial 4 with value: 0.662916437344832.
+
+Epoch 2/2 - Loss: 0.2748
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.4237
+========== Epoch 2/2 ==========
+
+[I 2025-05-22 23:30:47,106] Trial 5 finished with value: 0.7930599420302101 and parameters: {'learning_rate': 3.108618366565257e-06, 'weight_decay': 3.2148076487234364e-05}. Best is trial 4 with value: 0.662916437344832.
+
+Epoch 2/2 - Loss: 0.3693
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3921
+========== Epoch 2/2 ==========
+
+[I 2025-05-23 00:32:34,927] Trial 6 finished with value: 0.6958834195960154 and parameters: {'learning_rate': 1.5521537843453313e-05, 'weight_decay': 0.00017136900768690704}. Best is trial 4 with value: 0.662916437344832.
+
+Epoch 2/2 - Loss: 0.3037
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3939
+========== Epoch 2/2 ==========
+
+[I 2025-05-23 01:34:27,727] Trial 7 finished with value: 0.7139044500093822 and parameters: {'learning_rate': 1.047543536979481e-05, 'weight_decay': 1.1863791885999501e-06}. Best is trial 4 with value: 0.662916437344832.
+
+Epoch 2/2 - Loss: 0.3200
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3963
+========== Epoch 2/2 ==========
+
+[I 2025-05-23 02:36:08,944] Trial 8 finished with value: 0.7215506094682571 and parameters: {'learning_rate': 9.328147341502754e-06, 'weight_decay': 1.0212039346303384e-05}. Best is trial 4 with value: 0.662916437344832.
+
+Epoch 2/2 - Loss: 0.3253
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3869
+========== Epoch 2/2 ==========
+
+[I 2025-05-23 03:37:47,547] Trial 9 finished with value: 0.6715724108103741 and parameters: {'learning_rate': 2.237024567021893e-05, 'weight_decay': 5.640099218378808e-06}. Best is trial 4 with value: 0.662916437344832.
+
+Epoch 2/2 - Loss: 0.2847
+Best hyperparameters: {'learning_rate': 2.9647958234836855e-05, 'weight_decay': 0.0039608439213304186}
+
+
+Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+========== Epoch 1/2 ==========
+Epoch 1/2 - Loss: 0.3941
+========== Epoch 2/2 ==========
+[I 2025-05-23 15:23:49,819] Trial 0 finished with value: 0.714482837114459 and parameters: {'learning_rate': 1.027766660301313e-05, 'weight_decay': 0.0007673256552903922}. Best is trial 0 with value: 0.714482837114459.
+
+
+
+
+
+3 epochs:
+chrome:
+                [I 2025-05-23 13:01:07,010] Trial 0 finished with value: 1.23266305035336 and parameters: {'learning_rate': 1.2832733565128829e-06, 'weight_decay': 3.706496485079458e-05}. Best is trial 0 with value: 1.23266305035336.
+5616.3s 	105	Epoch 3/3 - Loss: 0.3817
+5616.5s	    106	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+5616.5s	    107	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+5616.9s	    108	========== Epoch 1/3 ==========
+7466.7s	    109	Epoch 1/3 - Loss: 0.4230
+7466.7s 	110	========== Epoch 2/3 ==========
+9317.0s 	111	Epoch 2/3 - Loss: 0.3653
+9317.0s	    112	========== Epoch 3/3 ==========
+11166.9s	113	[I 2025-05-23 14:33:37,834] Trial 1 finished with value: 1.1347034309909179 and parameters: {'learning_rate': 3.126123038844767e-06, 'weight_decay': 5.564098555877023e-05}. Best is trial 1 with value: 1.1347034309909179.
+11167.1s	114	Epoch 3/3 - Loss: 0.3464
+11167.2s	115	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+11167.2s	116	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11167.6s	117	========== Epoch 1/3 ==========
+13016.8s	118	Epoch 1/3 - Loss: 0.3883
+13016.8s	119	========== Epoch 2/3 ==========
+14866.2s	120	Epoch 2/3 - Loss: 0.2903
+14866.2s	121	========== Epoch 3/3 ==========
+16715.7s	122	[I 2025-05-23 16:06:06,619] Trial 2 finished with value: 0.886567126141894 and parameters: {'learning_rate': 2.0932985711566826e-05, 'weight_decay': 6.595947045983596e-05}. Best is trial 2 with value: 0.886567126141894.
+16715.9s	123	Epoch 3/3 - Loss: 0.2080
+16716.1s	124	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+16716.1s	125	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+16716.5s	126	========== Epoch 1/3 ==========
+18565.6s	127	Epoch 1/3 - Loss: 0.4190
+18565.6s	128	========== Epoch 2/3 ==========
+20418.0s	129	Epoch 2/3 - Loss: 0.3622
+20418.0s	130	========== Epoch 3/3 ==========
+22271.9s	131	[I 2025-05-23 17:38:42,801] Trial 3 finished with value: 1.1234846441617372 and parameters: {'learning_rate': 3.319018288670219e-06, 'weight_decay': 0.0007966547513162997}. Best is trial 2 with value: 0.886567126141894.
+22272.1s	132	Epoch 3/3 - Loss: 0.3423
+22272.2s	133	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+22272.2s	134	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+22272.6s	135	========== Epoch 1/3 ==========
+24126.4s	136	Epoch 1/3 - Loss: 0.3923
+24126.4s	137	========== Epoch 2/3 ==========
+25979.6s	138	Epoch 2/3 - Loss: 0.3101
+25979.6s	139	========== Epoch 3/3 ==========
+27831.7s	140	[I 2025-05-23 19:11:22,581] Trial 4 finished with value: 0.9550075550853191 and parameters: {'learning_rate': 1.2784034528807099e-05, 'weight_decay': 1.0314746974903969e-05}. Best is trial 2 with value: 0.886567126141894.
+27831.7s	141	Epoch 3/3 - Loss: 0.2526
+27831.7s	142	Best hyperparameters: {'learning_rate': 2.0932985711566826e-05, 'weight_decay': 6.595947045983596e-05}
+
+5733.3s	    104	[I 2025-05-23 22:28:03,514] Trial 0 finished with value: 1.0022308719258093 and parameters: {'learning_rate': 9.157647168472036e-06, 'weight_decay': 2.0407155452259344e-05}. Best is trial 0 with value: 1.0022308719258093.
+5733.4s 	105	Epoch 3/3 - Loss: 0.2815
+5733.6s 	106	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+5733.6s	    107	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+5734.0s	    108	========== Epoch 1/3 ==========
+7604.6s	    109	Epoch 1/3 - Loss: 0.3926
+7604.6s	    110	========== Epoch 2/3 ==========
+9484.2s	    111	Epoch 2/3 - Loss: 0.2763
+9484.2s	    112	========== Epoch 3/3 ==========
+11378.2s	113	[I 2025-05-24 00:02:08,500] Trial 1 finished with value: 0.8308502905775197 and parameters: {'learning_rate': 4.022191034844422e-05, 'weight_decay': 0.003208890480961004}. Best is trial 1 with value: 0.8308502905775197.
+11378.4s	114	Epoch 3/3 - Loss: 0.1619
+11378.6s	115	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+11378.6s	116	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11378.9s	117	========== Epoch 1/3 ==========
+13271.3s	118	Epoch 1/3 - Loss: 0.4084
+13271.3s	119	========== Epoch 2/3 ==========
+15160.7s	120	Epoch 2/3 - Loss: 0.3470
+15160.7s	121	========== Epoch 3/3 ==========
+17051.1s	122	[I 2025-05-24 01:36:41,379] Trial 2 finished with value: 1.0749979202425546 and parameters: {'learning_rate': 5.303271471618405e-06, 'weight_decay': 0.0015487211132598803}. Best is trial 1 with value: 0.8308502905775197.
+17051.3s	123	Epoch 3/3 - Loss: 0.3196
+17051.4s	124	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+17051.4s	125	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+17051.8s	126	========== Epoch 1/3 ==========
+18944.2s	127	Epoch 1/3 - Loss: 0.4010
+18944.2s	128	========== Epoch 2/3 ==========
+20835.3s	129	Epoch 2/3 - Loss: 0.3321
+20835.3s	130	========== Epoch 3/3 ==========
+22729.8s	131	[I 2025-05-24 03:11:20,012] Trial 3 finished with value: 1.0279135721430035 and parameters: {'learning_rate': 7.70435741830329e-06, 'weight_decay': 2.7236329933036883e-05}. Best is trial 1 with value: 0.8308502905775197.
+22729.9s	132	Epoch 3/3 - Loss: 0.2948
+22730.1s	133	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+22730.1s	134	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+22730.5s	135	========== Epoch 1/3 ==========
+24626.3s	136	Epoch 1/3 - Loss: 0.3894
+24626.3s	137	========== Epoch 2/3 ==========
+26522.3s	138	Epoch 2/3 - Loss: 0.2862
+26522.3s	139	========== Epoch 3/3 ==========
+28417.7s	140	[I 2025-05-24 04:46:07,928] Trial 4 finished with value: 0.8725422325159723 and parameters: {'learning_rate': 2.3945624814221465e-05, 'weight_decay': 1.2631897373941236e-05}. Best is trial 1 with value: 0.8308502905775197.
+28417.7s	141	Epoch 3/3 - Loss: 0.1970
+28417.7s	142	Best hyperparameters: {'learning_rate': 4.022191034844422e-05, 'weight_decay': 0.003208890480961004}
+
+
+mozilla
+5708.0s	    104	[I 2025-05-23 13:41:02,075] Trial 0 finished with value: 0.8388377257376595 and parameters: {'learning_rate': 3.6004344395619075e-05, 'weight_decay': 5.787360919516922e-06}. Best is trial 0 with value: 0.8388377257376595.
+5708.2s	    105	Epoch 3/3 - Loss: 0.1696
+5708.3s 	106	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+5708.3s 	107	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+5708.7s 	108	========== Epoch 1/3 ==========
+7594.2s 	109	Epoch 1/3 - Loss: 0.4231
+7594.2s 	110	========== Epoch 2/3 ==========
+9479.5s	    111	Epoch 2/3 - Loss: 0.3658
+9479.5s	    112	========== Epoch 3/3 ==========
+11365.5s	113	[I 2025-05-23 15:15:19,517] Trial 1 finished with value: 1.1351889214233855 and parameters: {'learning_rate': 3.156943717851612e-06, 'weight_decay': 1.3943578883922608e-06}. Best is trial 0 with value: 0.8388377257376595.
+11365.7s	114	Epoch 3/3 - Loss: 0.3463
+11365.7s	115	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+11365.7s	116	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+11366.1s	117	========== Epoch 1/3 ==========
+13251.4s	118	Epoch 1/3 - Loss: 0.3901
+13251.4s	119	========== Epoch 2/3 ==========
+15136.2s	120	Epoch 2/3 - Loss: 0.2797
+15136.2s	121	========== Epoch 3/3 ==========
+17020.5s	122	[I 2025-05-23 16:49:34,517] Trial 2 finished with value: 0.8463180419993348 and parameters: {'learning_rate': 3.1542800574600574e-05, 'weight_decay': 4.763272877263265e-05}. Best is trial 0 with value: 0.8388377257376595.
+17020.7s	123	Epoch 3/3 - Loss: 0.1765
+17021.0s	124	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+17021.0s	125	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+17021.3s	126	========== Epoch 1/3 ==========
+18905.9s	127	Epoch 1/3 - Loss: 0.3960
+18905.9s	128	========== Epoch 2/3 ==========
+20792.6s	129	Epoch 2/3 - Loss: 0.3254
+20792.6s	130	========== Epoch 3/3 ==========
+22678.0s	131	[I 2025-05-23 18:23:52,017] Trial 3 finished with value: 1.004021167491674 and parameters: {'learning_rate': 8.968267728600933e-06, 'weight_decay': 2.658136126924694e-06}. Best is trial 0 with value: 0.8388377257376595.
+22678.2s	132	Epoch 3/3 - Loss: 0.2826
+22678.2s	133	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+22678.2s	134	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+22678.6s	135	========== Epoch 1/3 ==========
+24565.4s	136	Epoch 1/3 - Loss: 0.3889
+24565.4s	137	========== Epoch 2/3 ==========
+26452.5s	138	Epoch 2/3 - Loss: 0.2899
+26452.5s	139	========== Epoch 3/3 ==========
+28344.1s	140	[I 2025-05-23 19:58:18,100] Trial 4 finished with value: 0.8851038188392031 and parameters: {'learning_rate': 2.1721810848557657e-05, 'weight_decay': 0.007365281160582376}. Best is trial 0 with value: 0.8388377257376595.
+28344.1s	141	Epoch 3/3 - Loss: 0.2063
+28344.1s	142	Best hyperparameters: {'learning_rate': 3.6004344395619075e-05, 'weight_decay': 5.787360919516922e-06}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ΕΓΚΥΡΑ:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+optuna based on validation loss:
+
+2 epochs
+
+60.5s	    328	========== Epoch 1/2 ==========
+2093.4s	    329	Epoch 1 - Train Loss: 0.4078 - Accuracy: 0.8152
+2093.4s	    330	Validation - Loss: 0.3713 - Accuracy: 0.8369
+2093.4s	    331	
+2093.4s	    332	========== Epoch 2/2 ==========
+4127.0s	    247	[I 2025-05-24 14:58:46,162] Trial 0 finished with value: 0.3661916409348542 and parameters: {'learning_rate': 5.048637554530781e-06, 'weight_decay': 1.0309720341082311e-05}. Best is trial 0 with value: 0.3661916409348542.
+4127.2s	    333	Epoch 2 - Train Loss: 0.3504 - Accuracy: 0.8460
+4127.2s	    334	Validation - Loss: 0.3662 - Accuracy: 0.8406
+4127.8s	    335	
+4127.8s	    336	========== Epoch 1/2 ==========
+6162.2s	    337	Epoch 1 - Train Loss: 0.4390 - Accuracy: 0.7975
+6162.2s	    338	Validation - Loss: 0.3917 - Accuracy: 0.8271
+6162.2s 	339	
+6162.2s 	340	========== Epoch 2/2 ==========
+8197.1s     341	[I 2025-05-24 16:06:36,337] Trial 1 finished with value: 0.381266564760568 and parameters: {'learning_rate': 2.077170636710475e-06, 'weight_decay': 0.00013125648631341912}. Best is trial 0 with value: 0.3661916409348542.
+8197.3s	    342	Epoch 2 - Train Loss: 0.3838 - Accuracy: 0.8292
+8197.3s 	343	Validation - Loss: 0.3813 - Accuracy: 0.8315
+8197.5s	    344	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+8197.5s	    45	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+8197.9s	    346	
+8197.9s	    347	========== Epoch 1/2 ==========
+10233.9s	348	Epoch 1 - Train Loss: 0.4640 - Accuracy: 0.7827
+10233.9s	349	Validation - Loss: 0.4041 - Accuracy: 0.8205
+10233.9s	350	
+10233.9s	351	========== Epoch 2/2 ==========
+12268.5s	352	[I 2025-05-24 17:14:27,716] Trial 2 finished with value: 0.3941687400273557 and parameters: {'learning_rate': 1.1686355522341704e-06, 'weight_decay': 0.008974578151358147}. Best is trial 0 with value: 0.3661916409348542.
+12268.7s	353	Epoch 2 - Train Loss: 0.4037 - Accuracy: 0.8179
+12268.7s	354	Validation - Loss: 0.3942 - Accuracy: 0.8242
+12269.0s	355	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+12269.0s	356	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12269.4s	357	
+12269.4s	358	========== Epoch 1/2 ==========
+14304.6s	359	Epoch 1 - Train Loss: 0.4444 - Accuracy: 0.7943
+14304.6s	360	Validation - Loss: 0.3935 - Accuracy: 0.8255
+14304.6s	361	
+14304.6s	362	========== Epoch 2/2 ==========
+16336.4s	363	[I 2025-05-24 18:22:15,644] Trial 3 finished with value: 0.38423763533808153 and parameters: {'learning_rate': 1.7110437871926364e-06, 'weight_decay': 0.009222386379142264}. Best is trial 0 with value: 0.3661916409348542.
+16336.6s	364	Epoch 2 - Train Loss: 0.3894 - Accuracy: 0.8263
+16336.6s	365	Validation - Loss: 0.3842 - Accuracy: 0.8297
+16336.9s	366	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+16336.9s	367	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+16337.3s	368	
+16337.3s	369	========== Epoch 1/2 ==========
+18366.1s	370	Epoch 1 - Train Loss: 0.4346 - Accuracy: 0.8002
+18366.1s	371	Validation - Loss: 0.3890 - Accuracy: 0.8280
+18366.1s	372	
+18366.1s	373	========== Epoch 2/2 ==========
+20396.1s	374	[I 2025-05-24 19:29:55,328] Trial 4 finished with value: 0.3791565848577697 and parameters: {'learning_rate': 2.353342001768476e-06, 'weight_decay': 0.0016252003748842235}. Best is trial 0 with value: 0.3661916409348542.
+20396.1s	375	Epoch 2 - Train Loss: 0.3804 - Accuracy: 0.8302
+20396.1s	376	Validation - Loss: 0.3792 - Accuracy: 0.8325
+20396.1s	377	Best hyperparameters: {'learning_rate': 5.048637554530781e-06, 'weight_decay': 1.0309720341082311e-05}
+
+
+61.0s	    99	
+61.0s	    100	========== Epoch 1/2 ==========
+2064.1s	    101	Epoch 1 - Train Loss: 0.3870 - Accuracy: 0.8270
+2064.1s	    102	Validation - Loss: 0.3570 - Accuracy: 0.8437
+2064.1s	    103	
+2064.1s	    104	========== Epoch 2/2 ==========
+4067.5s	    105	[I 2025-05-25 00:17:03,178] Trial 0 finished with value: 0.370954057599576 and parameters: {'learning_rate': 2.6640341515362047e-05, 'weight_decay': 4.1815767992551077e-05}. Best is trial 0 with value: 0.370954057599576.
+4067.7s	    106	Epoch 2 - Train Loss: 0.2768 - Accuracy: 0.8844
+4067.7s	    107	Validation - Loss: 0.3710 - Accuracy: 0.8482
+4067.8s	    108	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+4067.8s	    109	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+4068.2s	    110	
+4068.2s	    111	========== Epoch 1/2 ==========
+6073.8s	    112	Epoch 1 - Train Loss: 0.3973 - Accuracy: 0.8202
+6073.8s	    113	Validation - Loss: 0.3632 - Accuracy: 0.8401
+6073.8s	    114	
+6073.8s	    115	========== Epoch 2/2 ==========
+8079.6s	    116	[I 2025-05-25 01:23:55,206] Trial 1 finished with value: 0.3625098742685228 and parameters: {'learning_rate': 8.440748351239059e-06, 'weight_decay': 8.495141220208739e-06}. Best is trial 1 with value: 0.3625098742685228.
+8079.8s	    117	Epoch 2 - Train Loss: 0.3293 - Accuracy: 0.8573
+8079.8s 	118	Validation - Loss: 0.3625 - Accuracy: 0.8446
+8080.0s	    119	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+8080.0s 	120	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+8080.3s	    121	
+8080.3s	    122	========== Epoch 1/2 ==========
+10087.8s	123	Epoch 1 - Train Loss: 0.4671 - Accuracy: 0.7803
+10087.8s	124	Validation - Loss: 0.4066 - Accuracy: 0.8191
+10087.8s	125	
+10087.8s	126	========== Epoch 2/2 ==========
+12094.1s	127	[I 2025-05-25 02:30:49,751] Trial 2 finished with value: 0.3961125877668273 and parameters: {'learning_rate': 1.0830453708991054e-06, 'weight_decay': 0.0002393820590952661}. Best is trial 1 with value: 0.3625098742685228.
+12094.3s	128	Epoch 2 - Train Loss: 0.4062 - Accuracy: 0.8169
+12094.3s	129	Validation - Loss: 0.3961 - Accuracy: 0.8234
+12094.4s	130	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+12094.4s	131	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12094.8s	132	
+12094.8s	133	========== Epoch 1/2 ==========
+14100.6s	134	Epoch 1 - Train Loss: 0.4291 - Accuracy: 0.8037
+14100.6s	135	Validation - Loss: 0.3850 - Accuracy: 0.8293
+14100.6s	136	
+14100.6s	137	========== Epoch 2/2 ==========
+16106.9s	138	[I 2025-05-25 03:37:42,438] Trial 3 finished with value: 0.3765754432835669 and parameters: {'learning_rate': 2.7118637427050586e-06, 'weight_decay': 0.00023342154167283564}. Best is trial 1 with value: 0.3625098742685228.
+16107.0s	139	Epoch 2 - Train Loss: 0.3747 - Accuracy: 0.8337
+16107.0s	140	Validation - Loss: 0.3766 - Accuracy: 0.8339
+16107.1s	141	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+16107.1s	142	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+16107.5s	143	
+16107.5s	144	========== Epoch 1/2 ==========
+18112.3s	145	Epoch 1 - Train Loss: 0.4339 - Accuracy: 0.8002
+18112.3s	146	Validation - Loss: 0.3879 - Accuracy: 0.8292
+18112.3s	147	
+18112.3s	148	========== Epoch 2/2 ==========
+20118.0s	149	[I 2025-05-25 04:44:33,681] Trial 4 finished with value: 0.37891020502684253 and parameters: {'learning_rate': 2.219247129698943e-06, 'weight_decay': 1.2379704164402897e-06}. Best is trial 1 with value: 0.3625098742685228.
+20118.0s	150	Epoch 2 - Train Loss: 0.3803 - Accuracy: 0.8309
+20118.0s	151	Validation - Loss: 0.3789 - Accuracy: 0.8332
+20118.0s	152	Best hyperparameters: {'learning_rate': 8.440748351239059e-06, 'weight_decay': 8.495141220208739e-06}
+
+
+62.9s	    100	========== Epoch 1/2 ==========
+2096.7s	    101	Epoch 1 - Train Loss: 0.3885 - Accuracy: 0.8258
+2096.7s	    102	Validation - Loss: 0.3570 - Accuracy: 0.8436
+2096.7s	    103	
+2096.7s	    104	========== Epoch 2/2 ==========
+4131.7s 	105	[I 2025-06-01 12:04:26,073] Trial 0 finished with value: 0.36739556293442566 and parameters: {'learning_rate': 2.0221080610735814e-05, 'weight_decay': 2.81578570409466e-05}. Best is trial 0 with value: 0.36739556293442566.
+4131.9s	    106	Epoch 2 - Train Loss: 0.2897 - Accuracy: 0.8782
+4131.9s	    107	Validation - Loss: 0.3674 - Accuracy: 0.8492
+4132.3s	    108	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+4132.3s	    109	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+4132.7s	    110	
+4132.7s	    111	========== Epoch 1/2 ==========
+6168.0s	    112	Epoch 1 - Train Loss: 0.3889 - Accuracy: 0.8259
+6168.0s	    113	Validation - Loss: 0.3555 - Accuracy: 0.8434
+6168.0s	    114	
+6168.0s	    115	========== Epoch 2/2 ==========
+8203.4s	    116	[I 2025-06-01 13:12:17,686] Trial 1 finished with value: 0.37415080774786336 and parameters: {'learning_rate': 2.9855912215995474e-05, 'weight_decay': 5.233234684239277e-06}. Best is trial 0 with value: 0.36739556293442566.
+8203.6s	    117	Epoch 2 - Train Loss: 0.2754 - Accuracy: 0.8854
+8203.6s	    118	Validation - Loss: 0.3742 - Accuracy: 0.8483
+8203.9s 	119	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+8203.9s 	120	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+8204.3s 	121	
+8204.3s 	122	========== Epoch 1/2 ==========
+10243.0s	123	Epoch 1 - Train Loss: 0.4393 - Accuracy: 0.7974
+10243.0s	124	Validation - Loss: 0.3921 - Accuracy: 0.8262
+10243.0s	125	
+10243.0s	126	========== Epoch 2/2 ==========
+12283.3s	127	[I 2025-06-01 14:20:17,635] Trial 2 finished with value: 0.3817905103598001 and parameters: {'learning_rate': 2.0809219613600006e-06, 'weight_decay': 0.0011114758578285146}. Best is trial 0 with value: 0.36739556293442566.
+12283.5s	128	Epoch 2 - Train Loss: 0.3842 - Accuracy: 0.8288
+12283.5s	129	Validation - Loss: 0.3818 - Accuracy: 0.8312
+12283.8s	130	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+12283.8s	131	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12284.2s	132	
+12284.2s	133	========== Epoch 1/2 ==========
+14324.0s	134	Epoch 1 - Train Loss: 0.3969 - Accuracy: 0.8214
+14324.0s	135	Validation - Loss: 0.3630 - Accuracy: 0.8407
+14324.0s	136	
+14324.0s	137	========== Epoch 2/2 ==========
+16363.9s	138	[I 2025-06-01 15:28:18,192] Trial 3 finished with value: 0.3619096562659965 and parameters: {'learning_rate': 8.881286312572462e-06, 'weight_decay': 6.388873405617195e-05}. Best is trial 3 with value: 0.3619096562659965.
+16364.1s	139	Epoch 2 - Train Loss: 0.3271 - Accuracy: 0.8582
+16364.1s	140	Validation - Loss: 0.3619 - Accuracy: 0.8444
+16364.4s	141	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+16364.4s	142	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+16364.8s	143	
+16364.8s	144	========== Epoch 1/2 ==========
+18404.1s	145	Epoch 1 - Train Loss: 0.3902 - Accuracy: 0.8246
+18404.1s	146	Validation - Loss: 0.3578 - Accuracy: 0.8426
+18404.1s	147	
+18404.1s	148	========== Epoch 2/2 ==========
+20442.5s	149	[I 2025-06-01 16:36:16,810] Trial 4 finished with value: 0.3633313932115177 and parameters: {'learning_rate': 1.4178116578505638e-05, 'weight_decay': 7.756065125360959e-05}. Best is trial 3 with value: 0.3619096562659965.
+20442.5s	150	Epoch 2 - Train Loss: 0.3059 - Accuracy: 0.8695
+20442.5s	151	Validation - Loss: 0.3633 - Accuracy: 0.8479
+20442.5s	152	Best hyperparameters: {'learning_rate': 8.881286312572462e-06, 'weight_decay': 6.388873405617195e-05}
+
+
+60.7s	    100	========== Epoch 1/2 ==========
+2078.6s	    101	Epoch 1 - Train Loss: 0.3875 - Accuracy: 0.8263
+2078.6s	    102	Validation - Loss: 0.3547 - Accuracy: 0.8442
+2078.6s	    103	
+2078.6s	    104	========== Epoch 2/2 ==========
+4096.5s	    105	[I 2025-06-02 22:39:15,156] Trial 0 finished with value: 0.3676028702056633 and parameters: {'learning_rate': 2.126835440190326e-05, 'weight_decay': 1.770310804995584e-06}. Best is trial 0 with value: 0.3676028702056633.
+4096.7s	    106	Epoch 2 - Train Loss: 0.2863 - Accuracy: 0.8796
+4096.7s	    107	Validation - Loss: 0.3676 - Accuracy: 0.8488
+4096.9s	    108	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+4096.9s	    109	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+4097.3s	    110	
+4097.3s	    111	========== Epoch 1/2 ==========
+6116.7s	    112	Epoch 1 - Train Loss: 0.4458 - Accuracy: 0.7939
+6116.7s	    113	Validation - Loss: 0.3960 - Accuracy: 0.8250
+6116.7s 	114	
+6116.7s 	115	========== Epoch 2/2 ==========
+8136.9s 	116	[I 2025-06-02 23:46:35,505] Trial 1 finished with value: 0.38558092735848337 and parameters: {'learning_rate': 1.7154934279118004e-06, 'weight_decay': 4.9477103517199553e-05}. Best is trial 0 with value: 0.3676028702056633.
+8137.0s	    117	Epoch 2 - Train Loss: 0.3899 - Accuracy: 0.8259
+8137.0s	    118	Validation - Loss: 0.3856 - Accuracy: 0.8293
+8137.2s	    119	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+8137.2s	    120	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+8137.6s 	121	
+8137.6s	    122	========== Epoch 1/2 ==========
+10158.4s	123	Epoch 1 - Train Loss: 0.3892 - Accuracy: 0.8255
+10158.4s	124	Validation - Loss: 0.3562 - Accuracy: 0.8424
+10158.4s	125	
+10158.4s	126	========== Epoch 2/2 ==========
+12178.8s	127	[I 2025-06-03 00:53:57,410] Trial 2 finished with value: 0.36690508380251113 and parameters: {'learning_rate': 1.8832588218589612e-05, 'weight_decay': 1.4098496852342177e-06}. Best is trial 2 with value: 0.36690508380251113.
+12178.9s	128	Epoch 2 - Train Loss: 0.2921 - Accuracy: 0.8762
+12178.9s	129	Validation - Loss: 0.3669 - Accuracy: 0.8479
+12179.1s	130	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+12179.1s	131	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12179.5s	132	
+12179.5s	133	========== Epoch 1/2 ==========
+14201.4s	134	Epoch 1 - Train Loss: 0.4131 - Accuracy: 0.8123
+14201.4s	135	Validation - Loss: 0.3756 - Accuracy: 0.8351
+14201.4s	136	
+14201.4s	137	========== Epoch 2/2 ==========
+16206.2s	138	[I 2025-06-03 02:01:04,893] Trial 3 finished with value: 0.3685228884838662 and parameters: {'learning_rate': 4.157423366364046e-06, 'weight_decay': 0.0008486648330565312}. Best is trial 2 with value: 0.36690508380251113.
+16206.4s	139	Epoch 2 - Train Loss: 0.3577 - Accuracy: 0.8422
+16206.4s	140	Validation - Loss: 0.3685 - Accuracy: 0.8396
+16206.7s	141	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+16206.7s	142	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+16207.1s	143	
+16207.1s	144	========== Epoch 1/2 ==========
+18209.0s	145	Epoch 1 - Train Loss: 0.3913 - Accuracy: 0.8251
+18209.0s	146	Validation - Loss: 0.3606 - Accuracy: 0.8408
+18209.0s	147	
+18209.0s	148	========== Epoch 2/2 ==========
+20210.7s	149	[I 2025-06-03 03:07:49,371] Trial 4 finished with value: 0.3781543184901183 and parameters: {'learning_rate': 4.2258565744499724e-05, 'weight_decay': 0.00897628439218222}. Best is trial 2 with value: 0.36690508380251113.
+20210.7s	150	Epoch 2 - Train Loss: 0.2663 - Accuracy: 0.8895
+20210.7s	151	Validation - Loss: 0.3782 - Accuracy: 0.8480
+20210.7s	152	Best hyperparameters: {'learning_rate': 1.8832588218589612e-05, 'weight_decay': 1.4098496852342177e-06}
+
+
+
+
+
+
+3 epochs
+
+60.0s	    100	========== Epoch 1/3 ==========
+2097.4s	    101	Epoch 1 - Train Loss: 0.3887 - Accuracy: 0.8259
+2097.4s	    102	Validation - Loss: 0.3562 - Accuracy: 0.8436
+2097.4s	    103	
+2097.4s 	104	========== Epoch 2/3 ==========
+4136.5s 	105	Epoch 2 - Train Loss: 0.2897 - Accuracy: 0.8784
+4136.5s 	106	Validation - Loss: 0.3624 - Accuracy: 0.8472
+4136.5s 	107	
+4136.5s 	108	========== Epoch 3/3 ==========
+6176.7s 	109	[I 2025-05-24 17:40:00,087] Trial 0 finished with value: 0.43033312625198994 and parameters: {'learning_rate': 2.1002334012053967e-05, 'weight_decay': 5.330543796461684e-06}. Best is trial 0 with value: 0.43033312625198994.
+6176.9s	    110	Epoch 3 - Train Loss: 0.2080 - Accuracy: 0.9183
+6176.9s	    111	Validation - Loss: 0.4303 - Accuracy: 0.8430
+6177.1s	    112	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+6177.1s	    113	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+6177.5s 	114	
+6177.5s 	115	========== Epoch 1/3 ==========
+8217.2s 	116	Epoch 1 - Train Loss: 0.3881 - Accuracy: 0.8263
+8217.2s 	117	Validation - Loss: 0.3567 - Accuracy: 0.8438
+8217.2s 	118	
+8217.2s 	119	========== Epoch 2/3 ==========
+10259.5s	120	Epoch 2 - Train Loss: 0.2872 - Accuracy: 0.8796
+10259.5s	121	Validation - Loss: 0.3622 - Accuracy: 0.8476
+10259.5s	122	
+10259.5s	123	========== Epoch 3/3 ==========
+12300.7s	124	[I 2025-05-24 19:22:04,064] Trial 1 finished with value: 0.43761448011926884 and parameters: {'learning_rate': 2.2350488419162358e-05, 'weight_decay': 4.797887948273352e-05}. Best is trial 0 with value: 0.43033312625198994.
+12300.8s	125	Epoch 3 - Train Loss: 0.2023 - Accuracy: 0.9209
+12300.8s	126	Validation - Loss: 0.4376 - Accuracy: 0.8443
+12304.9s	127	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+12304.9s	128	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12305.3s	129	
+12305.3s	130	========== Epoch 1/3 ==========
+14344.4s	131	Epoch 1 - Train Loss: 0.3889 - Accuracy: 0.8260
+14344.4s	132	Validation - Loss: 0.3572 - Accuracy: 0.8436
+14344.4s	133	
+14344.4s	134	========== Epoch 2/3 ==========
+16381.9s	135	Epoch 2 - Train Loss: 0.2905 - Accuracy: 0.8776
+16381.9s	136	Validation - Loss: 0.3632 - Accuracy: 0.8469
+16381.9s	137	
+16381.9s	138	========== Epoch 3/3 ==========
+18416.8s	139	[I 2025-05-24 21:04:00,244] Trial 2 finished with value: 0.4308698641761856 and parameters: {'learning_rate': 2.067449251297657e-05, 'weight_decay': 7.972812913290453e-06}. Best is trial 0 with value: 0.43033312625198994.
+18417.0s	140	Epoch 3 - Train Loss: 0.2096 - Accuracy: 0.9171
+18417.0s	141	Validation - Loss: 0.4309 - Accuracy: 0.8442
+18417.1s	142	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+18417.1s	143	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+18417.5s	144	
+18417.5s	145	========== Epoch 1/3 ==========
+20454.3s	146	Epoch 1 - Train Loss: 0.4009 - Accuracy: 0.8184
+20454.3s	147	Validation - Loss: 0.3650 - Accuracy: 0.8388
+20454.3s	148	
+20454.3s	149	========== Epoch 2/3 ==========
+22491.2s	150	Epoch 2 - Train Loss: 0.3356 - Accuracy: 0.8541
+22491.2s	151	Validation - Loss: 0.3606 - Accuracy: 0.8438
+22491.2s	152	
+22491.2s	153	========== Epoch 3/3 ==========
+24527.7s	154	[I 2025-05-24 22:45:51,111] Trial 3 finished with value: 0.36997769100486105 and parameters: {'learning_rate': 6.831740123539786e-06, 'weight_decay': 2.6338210907368616e-06}. Best is trial 3 with value: 0.36997769100486105.
+24527.9s	155	Epoch 3 - Train Loss: 0.3023 - Accuracy: 0.8717
+24527.9s	156	Validation - Loss: 0.3700 - Accuracy: 0.8446
+24528.2s	157	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+24528.2s	158	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+24528.6s	159	
+24528.6s	160	========== Epoch 1/3 ==========
+26566.7s	161	Epoch 1 - Train Loss: 0.4530 - Accuracy: 0.7886
+26566.7s	162	Validation - Loss: 0.3972 - Accuracy: 0.8246
+26566.7s	163	
+26566.7s	164	========== Epoch 2/3 ==========
+28604.4s	165	Epoch 2 - Train Loss: 0.3920 - Accuracy: 0.8249
+28604.4s	166	Validation - Loss: 0.3855 - Accuracy: 0.8304
+28604.4s	167	
+28604.4s	168	========== Epoch 3/3 ==========
+30641.3s	169	[I 2025-05-25 00:27:44,661] Trial 4 finished with value: 0.3821884366251388 and parameters: {'learning_rate': 1.3810849368128761e-06, 'weight_decay': 0.00311185600997986}. Best is trial 3 with value: 0.36997769100486105.
+30641.3s	170	Epoch 3 - Train Loss: 0.3788 - Accuracy: 0.8313
+30641.3s	171	Validation - Loss: 0.3822 - Accuracy: 0.8327
+30641.3s	172	Best hyperparameters: {'learning_rate': 6.831740123539786e-06, 'weight_decay': 2.6338210907368616e-06}
+
+
+61.4s	    100	========== Epoch 1/3 ==========
+2078.3s	    101	Epoch 1 - Train Loss: 0.4330 - Accuracy: 0.8011
+2078.3s	    102	Validation - Loss: 0.3864 - Accuracy: 0.8298
+2078.3s	    103	
+2078.3s	    104	========== Epoch 2/3 ==========
+4095.2s	    105	Epoch 2 - Train Loss: 0.3746 - Accuracy: 0.8338
+4095.2s	    106	Validation - Loss: 0.3771 - Accuracy: 0.8348
+4095.2s	    107	
+4095.2s	    108	========== Epoch 3/3 ==========
+6111.2s	    109	[I 2025-05-26 21:36:03,967] Trial 0 finished with value: 0.37437395272952206 and parameters: {'learning_rate': 2.3822125748859134e-06, 'weight_decay': 8.32079253268283e-05}. Best is trial 0 with value: 0.37437395272952206.
+6111.4s	    110	Epoch 3 - Train Loss: 0.3582 - Accuracy: 0.8419
+6111.4s	    111	Validation - Loss: 0.3744 - Accuracy: 0.8373
+6111.8s	    112	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+6111.8s	    113	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+6112.3s	    114	
+6112.3s	    115	========== Epoch 1/3 ==========
+8127.3s	    116	Epoch 1 - Train Loss: 0.4087 - Accuracy: 0.8148
+8127.3s 	117	Validation - Loss: 0.3712 - Accuracy: 0.8370
+8127.3s	    118	
+8127.3s 	119	========== Epoch 2/3 ==========
+10139.4s	120	Epoch 2 - Train Loss: 0.3489 - Accuracy: 0.8468
+10139.4s	121	Validation - Loss: 0.3651 - Accuracy: 0.8417
+10139.4s	122	
+10139.4s	123	========== Epoch 3/3 ==========
+12152.7s	124	[I 2025-05-26 23:16:45,482] Trial 1 finished with value: 0.36793896957388467 and parameters: {'learning_rate': 4.8482724473194664e-06, 'weight_decay': 0.003722915391743309}. Best is trial 1 with value: 0.36793896957388467.
+12152.9s	125	Epoch 3 - Train Loss: 0.3236 - Accuracy: 0.8605
+12152.9s	126	Validation - Loss: 0.3679 - Accuracy: 0.8428
+12153.0s	127	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+12153.0s	128	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12153.4s	129	
+12153.4s	130	========== Epoch 1/3 ==========
+14165.3s	131	Epoch 1 - Train Loss: 0.4384 - Accuracy: 0.7975
+14165.3s	132	Validation - Loss: 0.3896 - Accuracy: 0.8275
+14165.3s	133	
+14165.3s	134	========== Epoch 2/3 ==========
+16175.7s	135	Epoch 2 - Train Loss: 0.3802 - Accuracy: 0.8307
+16175.7s	136	Validation - Loss: 0.3796 - Accuracy: 0.8329
+16175.7s	137	
+16175.7s	138	========== Epoch 3/3 ==========
+18186.8s	139	[I 2025-05-27 00:57:19,531] Trial 2 finished with value: 0.376283203324057 and parameters: {'learning_rate': 2.0651810930706367e-06, 'weight_decay': 5.48887309792033e-05}. Best is trial 1 with value: 0.36793896957388467.
+18186.9s	140	Epoch 3 - Train Loss: 0.3649 - Accuracy: 0.8385
+18186.9s	141	Validation - Loss: 0.3763 - Accuracy: 0.8349
+18187.2s	142	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+18187.2s	143	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+18187.6s	144	
+18187.6s	145	========== Epoch 1/3 ==========
+20198.7s	146	Epoch 1 - Train Loss: 0.4061 - Accuracy: 0.8158
+20198.7s	147	Validation - Loss: 0.3689 - Accuracy: 0.8373
+20198.7s	148	
+20198.7s	149	========== Epoch 2/3 ==========
+22212.3s	150	Epoch 2 - Train Loss: 0.3445 - Accuracy: 0.8490
+22212.3s	151	Validation - Loss: 0.3634 - Accuracy: 0.8418
+22212.3s	152	
+22212.3s	153	========== Epoch 3/3 ==========
+24229.4s	154	[I 2025-05-27 02:38:02,171] Trial 3 finished with value: 0.3678747267599376 and parameters: {'learning_rate': 5.560149010338959e-06, 'weight_decay': 0.004649485445995655}. Best is trial 3 with value: 0.3678747267599376.
+24229.6s	155	Epoch 3 - Train Loss: 0.3163 - Accuracy: 0.8641
+24229.6s	156	Validation - Loss: 0.3679 - Accuracy: 0.8429
+24229.7s	157	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+24229.7s	158	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+24230.1s	159	
+24230.1s	160	========== Epoch 1/3 ==========
+26246.8s	161	Epoch 1 - Train Loss: 0.4674 - Accuracy: 0.7797
+26246.8s	162	Validation - Loss: 0.4046 - Accuracy: 0.8201
+26246.8s	163	
+26246.8s	164	========== Epoch 2/3 ==========
+28264.0s	165	Epoch 2 - Train Loss: 0.4019 - Accuracy: 0.8195
+28264.0s	166	Validation - Loss: 0.3915 - Accuracy: 0.8258
+28264.0s	167	
+28264.0s	168	========== Epoch 3/3 ==========
+30277.2s	169	[I 2025-05-27 04:18:49,933] Trial 4 finished with value: 0.3881438763299078 and parameters: {'learning_rate': 1.0344673667593142e-06, 'weight_decay': 2.177445950247307e-05}. Best is trial 3 with value: 0.3678747267599376.
+30277.2s	170	Epoch 3 - Train Loss: 0.3895 - Accuracy: 0.8262
+30277.2s	171	Validation - Loss: 0.3881 - Accuracy: 0.8281
+30277.2s	172	Best hyperparameters: {'learning_rate': 5.560149010338959e-06, 'weight_decay': 0.004649485445995655}
+
+
+67.1s	    100	========== Epoch 1/3 ==========
+2123.4s 	101	Epoch 1 - Train Loss: 0.4636 - Accuracy: 0.7824
+2123.4s 	102	Validation - Loss: 0.4026 - Accuracy: 0.8216
+2123.4s 	103	
+2123.4s 	104	========== Epoch 2/3 ==========
+4181.8s 	105	Epoch 2 - Train Loss: 0.3993 - Accuracy: 0.8208
+4181.8s 	106	Validation - Loss: 0.3898 - Accuracy: 0.8275
+4181.8s 	107	
+4181.8s	    108	========== Epoch 3/3 ==========
+6238.6s	    109	[I 2025-06-01 12:27:24,544] Trial 0 finished with value: 0.3864902579334547 and parameters: {'learning_rate': 1.1242122052652855e-06, 'weight_decay': 3.9343021628520954e-05}. Best is trial 0 with value: 0.3864902579334547.
+6238.8s	    110	Epoch 3 - Train Loss: 0.3867 - Accuracy: 0.8276
+6238.8s	    111	Validation - Loss: 0.3865 - Accuracy: 0.8293
+6238.9s 	112	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+6238.9s 	113	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+6239.4s	    114	
+6239.4s	    115	========== Epoch 1/3 ==========
+8299.3s	    116	Epoch 1 - Train Loss: 0.4466 - Accuracy: 0.7929
+8299.3s	    117	Validation - Loss: 0.3941 - Accuracy: 0.8254
+8299.3s	    118	
+8299.3s	    119	========== Epoch 2/3 ==========
+10362.6s	120	Epoch 2 - Train Loss: 0.3872 - Accuracy: 0.8271
+10362.6s	121	Validation - Loss: 0.3828 - Accuracy: 0.8321
+10362.6s	122	
+10362.6s	123	========== Epoch 3/3 ==========
+12427.1s	124	[I 2025-06-01 14:10:33,024] Trial 1 finished with value: 0.37960040284777585 and parameters: {'learning_rate': 1.5819861827835263e-06, 'weight_decay': 0.0009628567459775428}. Best is trial 1 with value: 0.37960040284777585.
+12427.3s	125	Epoch 3 - Train Loss: 0.3736 - Accuracy: 0.8340
+12427.3s	126	Validation - Loss: 0.3796 - Accuracy: 0.8343
+12427.5s	127	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+12427.5s	128	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12427.8s	129	
+12427.8s	130	========== Epoch 1/3 ==========
+14491.2s	131	Epoch 1 - Train Loss: 0.3906 - Accuracy: 0.8249
+14491.2s	132	Validation - Loss: 0.3604 - Accuracy: 0.8444
+14491.2s	133	
+14491.2s	134	========== Epoch 2/3 ==========
+16552.7s	135	Epoch 2 - Train Loss: 0.2803 - Accuracy: 0.8828
+16552.7s	136	Validation - Loss: 0.3626 - Accuracy: 0.8467
+16552.7s	137	
+16552.7s	138	========== Epoch 3/3 ==========
+18612.0s	139	[I 2025-06-01 15:53:37,907] Trial 2 finished with value: 0.4729419161252818 and parameters: {'learning_rate': 3.141925726318445e-05, 'weight_decay': 5.0814664513088425e-06}. Best is trial 1 with value: 0.37960040284777585.
+18612.2s	140	Epoch 3 - Train Loss: 0.1784 - Accuracy: 0.9321
+18612.2s	141	Validation - Loss: 0.4729 - Accuracy: 0.8418
+18612.3s	142	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+18612.3s	143	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+18612.7s	144	
+18612.7s	145	========== Epoch 1/3 ==========
+20673.3s	146	Epoch 1 - Train Loss: 0.4359 - Accuracy: 0.7987
+20673.3s	147	Validation - Loss: 0.3875 - Accuracy: 0.8288
+20673.3s	148	
+20673.3s	149	========== Epoch 2/3 ==========
+22735.8s	150	Epoch 2 - Train Loss: 0.3783 - Accuracy: 0.8320
+22735.8s	151	Validation - Loss: 0.3778 - Accuracy: 0.8344
+22735.8s	152	
+22735.8s	153	========== Epoch 3/3 ==========
+24796.9s	154	[I 2025-06-01 17:36:42,862] Trial 3 finished with value: 0.3748930691154498 and parameters: {'learning_rate': 2.0702946735266774e-06, 'weight_decay': 1.382787990560754e-06}. Best is trial 3 with value: 0.3748930691154498.
+24797.1s	155	Epoch 3 - Train Loss: 0.3631 - Accuracy: 0.8396
+24797.1s	156	Validation - Loss: 0.3749 - Accuracy: 0.8366
+24797.3s	157	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+24797.3s	158	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+24797.6s	159	
+24797.6s	160	========== Epoch 1/3 ==========
+26863.7s	161	Epoch 1 - Train Loss: 0.3995 - Accuracy: 0.8194
+26863.7s	162	Validation - Loss: 0.3638 - Accuracy: 0.8397
+26863.7s	163	
+26863.7s	164	========== Epoch 2/3 ==========
+28938.5s	165	Epoch 2 - Train Loss: 0.3313 - Accuracy: 0.8562
+28938.5s	166	Validation - Loss: 0.3600 - Accuracy: 0.8436
+28938.5s	167	
+28938.5s	168	========== Epoch 3/3 ==========
+31014.8s	169	[I 2025-06-01 19:20:20,670] Trial 4 finished with value: 0.37232355950575957 and parameters: {'learning_rate': 7.616072425181388e-06, 'weight_decay': 7.451775574994227e-06}. Best is trial 4 with value: 0.37232355950575957.
+31014.8s	170	Epoch 3 - Train Loss: 0.2946 - Accuracy: 0.8759
+31014.8s	171	Validation - Loss: 0.3723 - Accuracy: 0.8445
+31014.8s	172	Best hyperparameters: {'learning_rate': 7.616072425181388e-06, 'weight_decay': 7.451775574994227e-06}
+
+
+60.8s	    100	========== Epoch 1/3 ==========
+2064.0s	    101	Epoch 1 - Train Loss: 0.3987 - Accuracy: 0.8200
+2064.0s	    102	Validation - Loss: 0.3634 - Accuracy: 0.8396
+2064.0s 	103	
+2064.0s	    104	========== Epoch 2/3 ==========
+4068.0s	    105	Epoch 2 - Train Loss: 0.3282 - Accuracy: 0.8576
+4068.0s	    106	Validation - Loss: 0.3601 - Accuracy: 0.8445
+4068.0s 	107	
+4068.0s 	108	========== Epoch 3/3 ==========
+6104.4s	    109	[I 2025-06-02 23:11:58,474] Trial 0 finished with value: 0.37473341466964416 and parameters: {'learning_rate': 8.367305658389786e-06, 'weight_decay': 0.002804027282190487}. Best is trial 0 with value: 0.37473341466964416.
+6104.5s 	110	Epoch 3 - Train Loss: 0.2888 - Accuracy: 0.8787
+6104.5s 	111	Validation - Loss: 0.3747 - Accuracy: 0.8452
+6104.8s 	112	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+6104.8s	    113	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+6105.2s	    114	
+6105.2s	    115	========== Epoch 1/3 ==========
+8126.0s	    116	Epoch 1 - Train Loss: 0.3919 - Accuracy: 0.8234
+8126.0s	    117	Validation - Loss: 0.3574 - Accuracy: 0.8429
+8126.0s	    118	
+8126.0s	    119	========== Epoch 2/3 ==========
+10161.1s	120	Epoch 2 - Train Loss: 0.3017 - Accuracy: 0.8717
+10161.1s	121	Validation - Loss: 0.3602 - Accuracy: 0.8477
+10161.1s	122	
+10161.1s	123	========== Epoch 3/3 ==========
+12198.5s	124	[I 2025-06-03 00:53:32,571] Trial 1 finished with value: 0.4059895187307079 and parameters: {'learning_rate': 1.6154941590054314e-05, 'weight_decay': 4.1568033747614274e-05}. Best is trial 0 with value: 0.37473341466964416.
+12198.6s	125	Epoch 3 - Train Loss: 0.2338 - Accuracy: 0.9060
+12198.6s	126	Validation - Loss: 0.4060 - Accuracy: 0.8445
+12198.8s	127	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+12198.8s	128	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12199.1s	129	
+12199.1s	130	========== Epoch 1/3 ==========
+14223.4s	131	Epoch 1 - Train Loss: 0.4314 - Accuracy: 0.8019
+14223.4s	132	Validation - Loss: 0.3849 - Accuracy: 0.8304
+14223.4s	133	
+14223.4s	134	========== Epoch 2/3 ==========
+16248.3s	135	Epoch 2 - Train Loss: 0.3738 - Accuracy: 0.8340
+16248.3s	136	Validation - Loss: 0.3757 - Accuracy: 0.8356
+16248.3s	137	
+16248.3s	138	========== Epoch 3/3 ==========
+18271.8s	139	[I 2025-06-03 02:34:45,930] Trial 2 finished with value: 0.37330258098975666 and parameters: {'learning_rate': 2.3590985131118113e-06, 'weight_decay': 1.3430996913832895e-06}. Best is trial 2 with value: 0.37330258098975666.
+18272.0s	140	Epoch 3 - Train Loss: 0.3578 - Accuracy: 0.8422
+18272.0s	141	Validation - Loss: 0.3733 - Accuracy: 0.8378
+18272.1s	142	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+18272.1s	143	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+18272.5s	144	
+18272.5s	145	========== Epoch 1/3 ==========
+20295.2s	146	Epoch 1 - Train Loss: 0.3952 - Accuracy: 0.8217
+20295.2s	147	Validation - Loss: 0.3612 - Accuracy: 0.8405
+20295.2s	148	
+20295.2s	149	========== Epoch 2/3 ==========
+22319.8s	150	Epoch 2 - Train Loss: 0.3214 - Accuracy: 0.8615
+22319.8s	151	Validation - Loss: 0.3597 - Accuracy: 0.8454
+22319.8s	152	
+22319.8s	153	========== Epoch 3/3 ==========
+24345.3s	154	[I 2025-06-03 04:15:59,440] Trial 3 finished with value: 0.3788304212520707 and parameters: {'learning_rate': 9.702313297840714e-06, 'weight_decay': 3.1888320940870305e-05}. Best is trial 2 with value: 0.37330258098975666.
+24345.5s	155	Epoch 3 - Train Loss: 0.2766 - Accuracy: 0.8853
+24345.5s	156	Validation - Loss: 0.3788 - Accuracy: 0.8458
+24345.6s	157	Some weights of BertForSequenceClassification were not initialized from the model checkpoint at bert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight']
+24345.6s	158	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+24346.0s	159	
+24346.0s	160	========== Epoch 1/3 ==========
+26370.3s	161	Epoch 1 - Train Loss: 0.4631 - Accuracy: 0.7824
+26370.3s	162	Validation - Loss: 0.4024 - Accuracy: 0.8217
+26370.3s	163	
+26370.3s	164	========== Epoch 2/3 ==========
+28395.5s	165	Epoch 2 - Train Loss: 0.3990 - Accuracy: 0.8212
+28395.5s	166	Validation - Loss: 0.3896 - Accuracy: 0.8279
+28395.5s	167	
+28395.5s	168	========== Epoch 3/3 ==========
+30421.5s	169	[I 2025-06-03 05:57:15,585] Trial 4 finished with value: 0.38639003103634095 and parameters: {'learning_rate': 1.1321870528351366e-06, 'weight_decay': 2.387155092783356e-05}. Best is trial 2 with value: 0.37330258098975666.
+30421.5s	170	Epoch 3 - Train Loss: 0.3864 - Accuracy: 0.8278
+30421.5s	171	Validation - Loss: 0.3864 - Accuracy: 0.8296
+30421.5s	172	Best hyperparameters: {'learning_rate': 2.3590985131118113e-06, 'weight_decay': 1.3430996913832895e-06}

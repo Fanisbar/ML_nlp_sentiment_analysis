@@ -1,0 +1,672 @@
+61.0s	    100	========== Epoch 1/15 ==========
+1126.5s	    101	Epoch 1 - Train Loss: 0.4164 - Accuracy: 0.8074
+1126.5s 	102	Validation - Loss: 0.3815 - Accuracy: 0.8317
+1126.5s 	103	
+1126.5s 	104	========== Epoch 2/15 ==========
+2193.2s	    105	Epoch 2 - Train Loss: 0.3536 - Accuracy: 0.8435
+2193.2s 	106	Validation - Loss: 0.3700 - Accuracy: 0.8366
+2193.2s 	107	
+2193.2s 	108	========== Epoch 3/15 ==========
+3257.8s	    109	Epoch 3 - Train Loss: 0.3149 - Accuracy: 0.8652
+3257.8s 	110	Validation - Loss: 0.3822 - Accuracy: 0.8388
+3257.8s 	111	
+3257.8s 	112	========== Epoch 4/15 ==========
+4323.4s 	113	[I 2025-05-26 19:14:18,198] Trial 0 finished with value: 0.37002159355384 and parameters: {'learning_rate': 7.228535631317261e-06, 'weight_decay': 0.0004111171289118429}. Best is trial 0 with value: 0.37002159355384.
+4323.6s 	114	Early stopping at epoch 4
+4323.6s 	115	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+4323.6s 	116	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+4323.9s 	117	
+4323.9s	    118	========== Epoch 1/15 ==========
+5388.8s	    119	Epoch 1 - Train Loss: 0.4062 - Accuracy: 0.8137
+5388.8s	    120	Validation - Loss: 0.3753 - Accuracy: 0.8332
+5388.8s	    121	
+5388.8s 	122	========== Epoch 2/15 ==========
+6452.5s	    123	Epoch 2 - Train Loss: 0.3302 - Accuracy: 0.8562
+6452.5s 	124	Validation - Loss: 0.3683 - Accuracy: 0.8375
+6452.5s 	125	
+6452.5s	    126	========== Epoch 3/15 ==========
+7516.4s 	127	Epoch 3 - Train Loss: 0.2656 - Accuracy: 0.8901
+7516.4s	    128	Validation - Loss: 0.4050 - Accuracy: 0.8348
+7516.4s	    129	
+7516.4s	    130	========== Epoch 4/15 ==========
+8579.9s	    131	[I 2025-05-26 20:25:14,716] Trial 1 finished with value: 0.3683344382891115 and parameters: {'learning_rate': 1.5091389135862107e-05, 'weight_decay': 0.0012653683204764843}. Best is trial 1 with value: 0.3683344382891115.
+8580.1s	    132	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+8580.1s	    133	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+8580.1s 	134	Early stopping at epoch 4
+8580.4s 	135	
+8580.4s 	136	========== Epoch 1/15 ==========
+9643.6s 	137	Epoch 1 - Train Loss: 0.4040 - Accuracy: 0.8152
+9643.6s 	138	Validation - Loss: 0.3742 - Accuracy: 0.8326
+9643.6s 	139	
+9643.6s	    140	========== Epoch 2/15 ==========
+10706.6s	141	Epoch 2 - Train Loss: 0.3161 - Accuracy: 0.8634
+10706.6s	142	Validation - Loss: 0.3694 - Accuracy: 0.8371
+10706.6s	143	
+10706.6s	144	========== Epoch 3/15 ==========
+11769.5s	145	Epoch 3 - Train Loss: 0.2308 - Accuracy: 0.9066
+11769.5s	146	Validation - Loss: 0.4552 - Accuracy: 0.8321
+11769.5s	147	
+11769.5s	148	========== Epoch 4/15 ==========
+12832.7s	149	[I 2025-05-26 21:36:07,460] Trial 2 finished with value: 0.36942159732557694 and parameters: {'learning_rate': 2.5798452731777197e-05, 'weight_decay': 0.00010188997533514865}. Best is trial 1 with value: 0.3683344382891115.
+12832.9s	150	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+12832.9s	151	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+12832.9s	152	Early stopping at epoch 4
+12833.2s	153	
+12833.2s	154	========== Epoch 1/15 ==========
+13896.2s	155	Epoch 1 - Train Loss: 0.4162 - Accuracy: 0.8075
+13896.2s	156	Validation - Loss: 0.3814 - Accuracy: 0.8320
+13896.2s	157	
+13896.2s	158	========== Epoch 2/15 ==========
+14958.4s	159	Epoch 2 - Train Loss: 0.3533 - Accuracy: 0.8438
+14958.4s	160	Validation - Loss: 0.3698 - Accuracy: 0.8364
+14958.4s	161	
+14958.4s	162	========== Epoch 3/15 ==========
+16020.8s	163	Epoch 3 - Train Loss: 0.3143 - Accuracy: 0.8655
+16020.8s	164	Validation - Loss: 0.3825 - Accuracy: 0.8389
+16020.8s	165	
+16020.8s	166	========== Epoch 4/15 ==========
+17082.6s	167	[I 2025-05-26 22:46:57,346] Trial 3 finished with value: 0.36979739306108006 and parameters: {'learning_rate': 7.301103759121131e-06, 'weight_decay': 0.0006907976832579176}. Best is trial 1 with value: 0.3683344382891115.
+17082.8s	168	Early stopping at epoch 4
+17082.8s	169	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+17082.8s	170	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+17083.1s	171	
+17083.1s	172	========== Epoch 1/15 ==========
+18145.4s	173	Epoch 1 - Train Loss: 0.4242 - Accuracy: 0.8028
+18145.4s	174	Validation - Loss: 0.3869 - Accuracy: 0.8289
+18145.4s	175	
+18145.4s	176	========== Epoch 2/15 ==========
+19208.5s	177	Epoch 2 - Train Loss: 0.3654 - Accuracy: 0.8382
+19208.5s	178	Validation - Loss: 0.3728 - Accuracy: 0.8352
+19208.5s	179	
+19208.5s	180	========== Epoch 3/15 ==========
+20271.6s	181	Epoch 3 - Train Loss: 0.3346 - Accuracy: 0.8545
+20271.6s	182	Validation - Loss: 0.3791 - Accuracy: 0.8391
+20271.6s	183	
+20271.6s	184	========== Epoch 4/15 ==========
+21335.7s	185	[I 2025-05-26 23:57:50,480] Trial 4 finished with value: 0.372800449183527 and parameters: {'learning_rate': 5.060447975357406e-06, 'weight_decay': 0.0002218099249473437}. Best is trial 1 with value: 0.3683344382891115.
+21335.9s	186	Early stopping at epoch 4
+21335.9s	187	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+21335.9s	188	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+21336.2s	189	
+21336.2s	190	========== Epoch 1/15 ==========
+22402.8s	191	Epoch 1 - Train Loss: 0.4686 - Accuracy: 0.7779
+22402.8s	192	Validation - Loss: 0.4120 - Accuracy: 0.8135
+22402.8s	193	
+22402.8s	194	========== Epoch 2/15 ==========
+23466.8s	195	Epoch 2 - Train Loss: 0.4063 - Accuracy: 0.8163
+23466.8s	196	Validation - Loss: 0.3956 - Accuracy: 0.8218
+23466.8s	197	
+23466.8s	198	========== Epoch 3/15 ==========
+24531.1s	199	Epoch 3 - Train Loss: 0.3885 - Accuracy: 0.8255
+24531.1s	200	Validation - Loss: 0.3901 - Accuracy: 0.8268
+24531.1s	201	
+24531.1s	202	========== Epoch 4/15 ==========
+25595.7s	203	Epoch 4 - Train Loss: 0.3755 - Accuracy: 0.8331
+25595.7s	204	Validation - Loss: 0.3834 - Accuracy: 0.8289
+25595.7s	205	
+25595.7s	206	========== Epoch 5/15 ==========
+26660.1s	207	Epoch 5 - Train Loss: 0.3659 - Accuracy: 0.8375
+26660.1s	208	Validation - Loss: 0.3857 - Accuracy: 0.8307
+26660.1s	209	
+26660.1s	210	========== Epoch 6/15 ==========
+27724.5s	211	[I 2025-05-27 01:44:19,310] Trial 5 finished with value: 0.38339250924452295 and parameters: {'learning_rate': 1.3267384888870186e-06, 'weight_decay': 0.007831607922351038}. Best is trial 1 with value: 0.3683344382891115.
+27724.7s	212	Early stopping at epoch 6
+27724.8s	213	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+27724.8s	214	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+27725.1s	215	
+27725.1s	216	========== Epoch 1/15 ==========
+28790.1s	217	Epoch 1 - Train Loss: 0.4367 - Accuracy: 0.7960
+28790.1s	218	Validation - Loss: 0.3951 - Accuracy: 0.8242
+28790.1s	219	
+28790.1s	220	========== Epoch 2/15 ==========
+29854.0s	221	Epoch 2 - Train Loss: 0.3804 - Accuracy: 0.8300
+29854.0s	222	Validation - Loss: 0.3786 - Accuracy: 0.8312
+29854.0s	223	
+29854.0s	224	========== Epoch 3/15 ==========
+30917.4s	225	Epoch 3 - Train Loss: 0.3567 - Accuracy: 0.8425
+30917.4s	226	Validation - Loss: 0.3805 - Accuracy: 0.8361
+30917.4s	227	
+30917.4s	228	========== Epoch 4/15 ==========
+31979.9s	229	Epoch 4 - Train Loss: 0.3377 - Accuracy: 0.8538
+31979.9s	230	Validation - Loss: 0.3753 - Accuracy: 0.8358
+31979.9s	231	
+31979.9s	232	========== Epoch 5/15 ==========
+33042.6s	233	Epoch 5 - Train Loss: 0.3207 - Accuracy: 0.8624
+33042.6s	234	Validation - Loss: 0.3837 - Accuracy: 0.8368
+33042.6s	235	
+33042.6s	236	========== Epoch 6/15 ==========
+34105.2s	237	[I 2025-05-27 03:30:39,984] Trial 6 finished with value: 0.3753475262477713 and parameters: {'learning_rate': 3.119807427535259e-06, 'weight_decay': 0.0019245321115753187}. Best is trial 1 with value: 0.3683344382891115.
+34105.4s	238	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+34105.4s	239	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+34105.4s	240	Early stopping at epoch 6
+34105.7s	241	
+34105.7s	242	========== Epoch 1/15 ==========
+35169.2s	243	Epoch 1 - Train Loss: 0.4685 - Accuracy: 0.7779
+35169.2s	244	Validation - Loss: 0.4119 - Accuracy: 0.8135
+35169.2s	245	
+35169.2s	246	========== Epoch 2/15 ==========
+36234.7s	247	Epoch 2 - Train Loss: 0.4063 - Accuracy: 0.8162
+36234.7s	248	Validation - Loss: 0.3956 - Accuracy: 0.8217
+36234.7s	249	
+36234.7s	250	========== Epoch 3/15 ==========
+37298.9s	251	Epoch 3 - Train Loss: 0.3884 - Accuracy: 0.8256
+37298.9s	252	Validation - Loss: 0.3901 - Accuracy: 0.8267
+37298.9s	253	
+37298.9s	254	========== Epoch 4/15 ==========
+38365.7s	255	Epoch 4 - Train Loss: 0.3755 - Accuracy: 0.8331
+38365.7s	256	Validation - Loss: 0.3834 - Accuracy: 0.8290
+38365.7s	257	
+38365.7s	258	========== Epoch 5/15 ==========
+39431.3s	259	Epoch 5 - Train Loss: 0.3658 - Accuracy: 0.8375
+39431.3s	260	Validation - Loss: 0.3857 - Accuracy: 0.8307
+39431.3s	261	
+39431.3s	262	========== Epoch 6/15 ==========
+40495.2s	263	[I 2025-05-27 05:17:09,979] Trial 7 finished with value: 0.3834010809659958 and parameters: {'learning_rate': 1.3272775964568894e-06, 'weight_decay': 4.696145761050132e-06}. Best is trial 1 with value: 0.3683344382891115.
+40495.4s	264	Early stopping at epoch 6
+
+
+
+
+
+64.0s	    100	========== Epoch 1/15 ==========
+1132.8s	    101	Epoch 1 - Train Loss: 0.4047 - Accuracy: 0.8145
+1132.8s	    102	Validation - Loss: 0.3746 - Accuracy: 0.8330
+1132.8s	    103	
+1132.8s	    104	========== Epoch 2/15 ==========
+2198.6s	    105	Epoch 2 - Train Loss: 0.3130 - Accuracy: 0.8653
+2198.6s	    106	Validation - Loss: 0.3764 - Accuracy: 0.8360
+2198.6s	    107	
+2198.6s	    108	========== Epoch 3/15 ==========
+3264.4s	    109	[I 2025-05-27 12:50:22,655] Trial 0 finished with value: 0.3746268356971021 and parameters: {'learning_rate': 3.0227582838125792e-05, 'weight_decay': 0.0004251349916594875}. Best is trial 0 with value: 0.3746268356971021.
+3264.6s 	110	Early stopping at epoch 3
+3264.7s 	111	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+3264.7s 	112	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+3265.0s	    113	
+3265.0s	    114	========== Epoch 1/15 ==========
+4331.6s	    115	Epoch 1 - Train Loss: 0.4050 - Accuracy: 0.8145
+4331.6s	    116	Validation - Loss: 0.3742 - Accuracy: 0.8331
+4331.6s	    117	
+4331.6s 	118	========== Epoch 2/15 ==========
+5396.2s	    119	Epoch 2 - Train Loss: 0.3253 - Accuracy: 0.8588
+5396.2s 	120	Validation - Loss: 0.3689 - Accuracy: 0.8381
+5396.2s 	121	
+5396.2s 	122	========== Epoch 3/15 ==========
+6460.2s	    123	Epoch 3 - Train Loss: 0.2537 - Accuracy: 0.8958
+6460.2s	    124	Validation - Loss: 0.4161 - Accuracy: 0.8338
+6460.2s	    125	
+6460.2s	    126	========== Epoch 4/15 ==========
+7526.0s	    127	[I 2025-05-27 14:01:24,337] Trial 1 finished with value: 0.3688889511857393 and parameters: {'learning_rate': 1.7939633857360194e-05, 'weight_decay': 0.00015560468153623372}. Best is trial 1 with value: 0.3688889511857393.
+7526.2s	    128	Early stopping at epoch 4
+7526.3s 	129	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+7526.3s	    130	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+7526.6s	    131	
+7526.6s	    132	========== Epoch 1/15 ==========
+8593.2s	    133	Epoch 1 - Train Loss: 0.4619 - Accuracy: 0.7818
+8593.2s	    134	Validation - Loss: 0.4085 - Accuracy: 0.8152
+8593.2s	    135	
+8593.2s	    136	========== Epoch 2/15 ==========
+9657.8s	    137	Epoch 2 - Train Loss: 0.4017 - Accuracy: 0.8186
+9657.8s	    138	Validation - Loss: 0.3921 - Accuracy: 0.8240
+9657.8s 	139	
+9657.8s 	140	========== Epoch 3/15 ==========
+10722.7s	141	Epoch 3 - Train Loss: 0.3832 - Accuracy: 0.8282
+10722.7s	142	Validation - Loss: 0.3877 - Accuracy: 0.8280
+10722.7s	143	
+10722.7s	144	========== Epoch 4/15 ==========
+11787.0s	145	Epoch 4 - Train Loss: 0.3697 - Accuracy: 0.8363
+11787.0s	146	Validation - Loss: 0.3812 - Accuracy: 0.8308
+11787.0s	147	
+11787.0s	148	========== Epoch 5/15 ==========
+12853.0s	149	Epoch 5 - Train Loss: 0.3593 - Accuracy: 0.8415
+12853.0s	150	Validation - Loss: 0.3842 - Accuracy: 0.8323
+12853.0s	151	
+12853.0s	152	========== Epoch 6/15 ==========
+13919.9s	153	[I 2025-05-27 15:47:58,168] Trial 2 finished with value: 0.38120884987543213 and parameters: {'learning_rate': 1.5416021213127252e-06, 'weight_decay': 8.071834464413073e-05}. Best is trial 1 with value: 0.3688889511857393.
+13920.1s	154	Early stopping at epoch 6
+13920.1s	155	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+13920.1s	156	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+13920.4s	157	
+13920.4s	158	========== Epoch 1/15 ==========
+14987.7s	159	Epoch 1 - Train Loss: 0.4145 - Accuracy: 0.8088
+14987.7s	160	Validation - Loss: 0.3803 - Accuracy: 0.8322
+14987.7s	161	
+14987.7s	162	========== Epoch 2/15 ==========
+16054.9s	163	Epoch 2 - Train Loss: 0.3504 - Accuracy: 0.8453
+16054.9s	164	Validation - Loss: 0.3694 - Accuracy: 0.8362
+16054.9s	165	
+16054.9s	166	========== Epoch 3/15 ==========
+17121.9s	167	Epoch 3 - Train Loss: 0.3089 - Accuracy: 0.8684
+17121.9s	168	Validation - Loss: 0.3844 - Accuracy: 0.8389
+17121.9s	169	
+17121.9s	170	========== Epoch 4/15 ==========
+18188.8s	171	[I 2025-05-27 16:59:07,043] Trial 3 finished with value: 0.36944723102843985 and parameters: {'learning_rate': 7.972688143184805e-06, 'weight_decay': 6.1168126713945e-05}. Best is trial 1 with value: 0.3688889511857393.
+18188.9s	172	Early stopping at epoch 4
+18189.0s	173	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+18189.0s	174	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+18189.3s	175	
+18189.3s	176	========== Epoch 1/15 ==========
+19256.9s	177	Epoch 1 - Train Loss: 0.4464 - Accuracy: 0.7901
+19256.9s	178	Validation - Loss: 0.4003 - Accuracy: 0.8205
+19256.9s	179	
+19256.9s	180	========== Epoch 2/15 ==========
+20322.8s	181	Epoch 2 - Train Loss: 0.3895 - Accuracy: 0.8249
+20322.8s	182	Validation - Loss: 0.3835 - Accuracy: 0.8277
+20322.8s	183	
+20322.8s	184	========== Epoch 3/15 ==========
+21389.5s	185	Epoch 3 - Train Loss: 0.3687 - Accuracy: 0.8358
+21389.5s	186	Validation - Loss: 0.3829 - Accuracy: 0.8322
+21389.5s	187	
+21389.5s	188	========== Epoch 4/15 ==========
+22454.7s	189	Epoch 4 - Train Loss: 0.3527 - Accuracy: 0.8455
+22454.7s	190	Validation - Loss: 0.3767 - Accuracy: 0.8341
+22454.7s	191	
+22454.7s	192	========== Epoch 5/15 ==========
+23521.0s	193	Epoch 5 - Train Loss: 0.3392 - Accuracy: 0.8529
+23521.0s	194	Validation - Loss: 0.3819 - Accuracy: 0.8350
+23521.0s	195	
+23521.0s	196	========== Epoch 6/15 ==========
+24585.9s	197	[I 2025-05-27 18:45:44,149] Trial 4 finished with value: 0.3766919429459662 and parameters: {'learning_rate': 2.3030747264574906e-06, 'weight_decay': 8.026377009712585e-06}. Best is trial 1 with value: 0.3688889511857393.
+24586.0s	198	Early stopping at epoch 6
+24586.1s	199	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+24586.1s	200	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+24586.4s	201	
+24586.4s	202	========== Epoch 1/15 ==========
+25651.7s	203	Epoch 1 - Train Loss: 0.4310 - Accuracy: 0.7991
+25651.7s	204	Validation - Loss: 0.3916 - Accuracy: 0.8263
+25651.7s	205	
+25651.7s	206	========== Epoch 2/15 ==========
+26716.6s	207	Epoch 2 - Train Loss: 0.3742 - Accuracy: 0.8335
+26716.6s	208	Validation - Loss: 0.3758 - Accuracy: 0.8325
+26716.6s	209	
+26716.6s	210	========== Epoch 3/15 ==========
+27781.4s	211	Epoch 3 - Train Loss: 0.3480 - Accuracy: 0.8474
+27781.4s	212	Validation - Loss: 0.3794 - Accuracy: 0.8371
+27781.4s	213	
+27781.4s	214	========== Epoch 4/15 ==========
+28846.1s	215	Epoch 4 - Train Loss: 0.3261 - Accuracy: 0.8597
+28846.1s	216	Validation - Loss: 0.3758 - Accuracy: 0.8372
+28846.1s	217	
+28846.1s	218	========== Epoch 5/15 ==========
+29910.0s	219	Epoch 5 - Train Loss: 0.3062 - Accuracy: 0.8697
+29910.0s	220	Validation - Loss: 0.3883 - Accuracy: 0.8372
+29910.0s	221	
+29910.0s	222	========== Epoch 6/15 ==========
+30974.4s	223	[I 2025-05-27 20:32:12,726] Trial 5 finished with value: 0.3757913649307107 and parameters: {'learning_rate': 3.8142695381222043e-06, 'weight_decay': 0.0006199390553694661}. Best is trial 1 with value: 0.3688889511857393.
+30974.6s	224	Early stopping at epoch 6
+30974.7s	225	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+30974.7s	226	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+30975.1s	227	
+30975.1s	228	========== Epoch 1/15 ==========
+32040.3s	229	Epoch 1 - Train Loss: 0.4055 - Accuracy: 0.8144
+32040.3s	230	Validation - Loss: 0.3748 - Accuracy: 0.8327
+32040.3s	231	
+32040.3s	232	========== Epoch 2/15 ==========
+33106.1s	233	Epoch 2 - Train Loss: 0.3274 - Accuracy: 0.8576
+33106.1s	234	Validation - Loss: 0.3687 - Accuracy: 0.8380
+33106.1s	235	
+33106.1s	236	========== Epoch 3/15 ==========
+34171.4s	237	Epoch 3 - Train Loss: 0.2590 - Accuracy: 0.8933
+34171.4s	238	Validation - Loss: 0.4098 - Accuracy: 0.8348
+34171.4s	239	
+34171.4s	240	========== Epoch 4/15 ==========
+35237.0s	241	[I 2025-05-27 21:43:15,276] Trial 6 finished with value: 0.3686957742020769 and parameters: {'learning_rate': 1.6609041928241528e-05, 'weight_decay': 2.1726755721300897e-06}. Best is trial 6 with value: 0.3686957742020769.
+35237.2s	242	Early stopping at epoch 4
+35237.3s	243	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+35237.3s	244	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+35237.6s	245	
+35237.6s	246	========== Epoch 1/15 ==========
+36303.8s	247	Epoch 1 - Train Loss: 0.4066 - Accuracy: 0.8142
+36303.8s	248	Validation - Loss: 0.3770 - Accuracy: 0.8310
+36303.8s	249	
+36303.8s	250	========== Epoch 2/15 ==========
+37367.6s	251	Epoch 2 - Train Loss: 0.3111 - Accuracy: 0.8672
+37367.6s	252	Validation - Loss: 0.3768 - Accuracy: 0.8346
+37367.6s	253	
+37367.6s	254	========== Epoch 3/15 ==========
+38430.6s	255	Epoch 3 - Train Loss: 0.2162 - Accuracy: 0.9137
+38430.6s	256	Validation - Loss: 0.4492 - Accuracy: 0.8295
+38430.6s	257	
+38430.6s	258	========== Epoch 4/15 ==========
+39494.1s	259	[I 2025-05-27 22:54:12,397] Trial 7 finished with value: 0.37683957788179506 and parameters: {'learning_rate': 4.0026810048876805e-05, 'weight_decay': 1.4044672494073843e-06}. Best is trial 6 with value: 0.3686957742020769.
+
+
+
+
+
+[I 2025-05-27 12:21:32,202] A new study created in memory with name: lr&wd_minim_study
+Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+========== Epoch 1/15 ==========
+Epoch 1 - Train Loss: 0.4479 - Accuracy: 0.7895
+Validation - Loss: 0.4011 - Accuracy: 0.8198
+
+========== Epoch 2/15 ==========
+Epoch 2 - Train Loss: 0.3907 - Accuracy: 0.8243
+Validation - Loss: 0.3843 - Accuracy: 0.8275
+
+========== Epoch 3/15 ==========
+Epoch 3 - Train Loss: 0.3701 - Accuracy: 0.8350
+Validation - Loss: 0.3833 - Accuracy: 0.8319
+
+========== Epoch 4/15 ==========
+Epoch 4 - Train Loss: 0.3545 - Accuracy: 0.8446
+Validation - Loss: 0.3770 - Accuracy: 0.8339
+
+========== Epoch 5/15 ==========
+Epoch 5 - Train Loss: 0.3414 - Accuracy: 0.8517
+Validation - Loss: 0.3820 - Accuracy: 0.8346
+
+========== Epoch 6/15 ==========
+[I 2025-05-27 14:08:16,952] Trial 0 finished with value: 0.3770450159626187 and parameters: {'learning_rate': 2.2147819926976767e-06, 'weight_decay': 0.0002878546005816949}. Best is trial 0 with value: 0.3770450159626187.
+Early stopping at epoch 6
+Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+========== Epoch 1/15 ==========
+Epoch 1 - Train Loss: 0.4213 - Accuracy: 0.8043
+Validation - Loss: 0.3848 - Accuracy: 0.8296
+
+========== Epoch 2/15 ==========
+Epoch 2 - Train Loss: 0.3613 - Accuracy: 0.8401
+Validation - Loss: 0.3717 - Accuracy: 0.8359
+
+========== Epoch 3/15 ==========
+Epoch 3 - Train Loss: 0.3281 - Accuracy: 0.8580
+Validation - Loss: 0.3798 - Accuracy: 0.8388
+
+========== Epoch 4/15 ==========
+[I 2025-05-27 15:19:26,910] Trial 1 finished with value: 0.37172148439119446 and parameters: {'learning_rate': 5.722533835907149e-06, 'weight_decay': 4.31247859569313e-06}. Best is trial 1 with value: 0.37172148439119446.
+Early stopping at epoch 4
+Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+========== Epoch 1/15 ==========
+Epoch 1 - Train Loss: 0.4137 - Accuracy: 0.8092
+Validation - Loss: 0.3794 - Accuracy: 0.8326
+
+========== Epoch 2/15 ==========
+Epoch 2 - Train Loss: 0.3489 - Accuracy: 0.8460
+Validation - Loss: 0.3693 - Accuracy: 0.8362
+
+========== Epoch 3/15 ==========
+Epoch 3 - Train Loss: 0.3060 - Accuracy: 0.8698
+Validation - Loss: 0.3848 - Accuracy: 0.8384
+
+========== Epoch 4/15 ==========
+[I 2025-05-27 16:30:29,307] Trial 2 finished with value: 0.3692927936562952 and parameters: {'learning_rate': 8.34893945430151e-06, 'weight_decay': 1.6922800802881897e-05}. Best is trial 2 with value: 0.3692927936562952.
+Early stopping at epoch 4
+Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+========== Epoch 1/15 ==========
+Epoch 1 - Train Loss: 0.4193 - Accuracy: 0.8053
+Validation - Loss: 0.3835 - Accuracy: 0.8309
+
+========== Epoch 2/15 ==========
+Epoch 2 - Train Loss: 0.3582 - Accuracy: 0.8417
+Validation - Loss: 0.3709 - Accuracy: 0.8363
+
+========== Epoch 3/15 ==========
+Epoch 3 - Train Loss: 0.3229 - Accuracy: 0.8608
+Validation - Loss: 0.3805 - Accuracy: 0.8389
+
+========== Epoch 4/15 ==========
+[I 2025-05-27 17:41:28,768] Trial 3 finished with value: 0.37092818583519954 and parameters: {'learning_rate': 6.292519413748994e-06, 'weight_decay': 0.0029583536375695618}. Best is trial 2 with value: 0.3692927936562952.
+Early stopping at epoch 4
+Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+========== Epoch 1/15 ==========
+Epoch 1 - Train Loss: 0.4053 - Accuracy: 0.8146
+Validation - Loss: 0.3744 - Accuracy: 0.8330
+
+========== Epoch 2/15 ==========
+Epoch 2 - Train Loss: 0.3120 - Accuracy: 0.8658
+Validation - Loss: 0.3743 - Accuracy: 0.8354
+
+========== Epoch 3/15 ==========
+Epoch 3 - Train Loss: 0.2202 - Accuracy: 0.9120
+Validation - Loss: 0.4584 - Accuracy: 0.8285
+
+========== Epoch 4/15 ==========
+[I 2025-05-27 18:52:33,729] Trial 4 finished with value: 0.37425159209179426 and parameters: {'learning_rate': 3.361050613982122e-05, 'weight_decay': 0.003556579750022635}. Best is trial 2 with value: 0.3692927936562952.
+Early stopping at epoch 4
+Best hyperparameters: {'learning_rate': 8.34893945430151e-06, 'weight_decay': 1.6922800802881897e-05}
+
+
+
+
+
+69.9s	    100	========== Epoch 1/15 ==========
+1162.4s    	101	Epoch 1 - Train Loss: 0.4096 - Accuracy: 0.8117
+1162.4s 	102	Validation - Loss: 0.3769 - Accuracy: 0.8338
+1162.4s 	103	
+1162.4s 	104	========== Epoch 2/15 ==========
+2254.9s 	105	Epoch 2 - Train Loss: 0.3401 - Accuracy: 0.8511
+2254.9s 	106	Validation - Loss: 0.3684 - Accuracy: 0.8374
+2254.9s 	107	
+2254.9s 	108	========== Epoch 3/15 ==========
+3346.3s 	109	Epoch 3 - Train Loss: 0.2880 - Accuracy: 0.8787
+3346.3s 	110	Validation - Loss: 0.3926 - Accuracy: 0.8373
+3346.3s 	111	
+3346.3s 	112	========== Epoch 4/15 ==========
+4436.7s 	113	[I 2025-06-01 12:22:54,255] Trial 0 finished with value: 0.36842194709013093 and parameters: {'learning_rate': 1.0982272372522852e-05, 'weight_decay': 1.6904013034362597e-05}. Best is trial 0 with value: 0.36842194709013093.
+4436.8s	    114	Early stopping at epoch 4
+4436.9s	    115	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+4436.9s	    116	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+4437.3s	    117	
+4437.3s 	118	========== Epoch 1/15 ==========
+5529.0s	    119	Epoch 1 - Train Loss: 0.4053 - Accuracy: 0.8145
+5529.0s 	120	Validation - Loss: 0.3743 - Accuracy: 0.8329
+5529.0s 	121	
+5529.0s 	122	========== Epoch 2/15 ==========
+6620.4s	    123	Epoch 2 - Train Loss: 0.3268 - Accuracy: 0.8581
+6620.4s	    124	Validation - Loss: 0.3686 - Accuracy: 0.8383
+6620.4s	    125	
+6620.4s	    126	========== Epoch 3/15 ==========
+7712.8s 	127	Epoch 3 - Train Loss: 0.2574 - Accuracy: 0.8942
+7712.8s 	128	Validation - Loss: 0.4144 - Accuracy: 0.8339
+7712.8s 	129	
+7712.8s	    130	========== Epoch 4/15 ==========
+8804.2s	    131	[I 2025-06-01 13:35:41,806] Trial 1 finished with value: 0.36855250625677827 and parameters: {'learning_rate': 1.7011632583948192e-05, 'weight_decay': 8.190214696386428e-06}. Best is trial 0 with value: 0.36842194709013093.
+8804.4s	    132	Early stopping at epoch 4
+8804.5s	    133	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+8804.5s	    134	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+8804.8s	    135	
+8804.8s	    136	========== Epoch 1/15 ==========
+9896.0s 	137	Epoch 1 - Train Loss: 0.4652 - Accuracy: 0.7800
+9896.0s 	138	Validation - Loss: 0.4102 - Accuracy: 0.8144
+9896.0s	    139	
+9896.0s 	140	========== Epoch 2/15 ==========
+10986.8s	141	Epoch 2 - Train Loss: 0.4040 - Accuracy: 0.8174
+10986.8s	142	Validation - Loss: 0.3938 - Accuracy: 0.8228
+10986.8s	143	
+10986.8s	144	========== Epoch 3/15 ==========
+12077.5s	145	Epoch 3 - Train Loss: 0.3859 - Accuracy: 0.8269
+12077.5s	146	Validation - Loss: 0.3888 - Accuracy: 0.8273
+12077.5s	147	
+12077.5s	148	========== Epoch 4/15 ==========
+13168.7s	149	Epoch 4 - Train Loss: 0.3727 - Accuracy: 0.8346
+13168.7s	150	Validation - Loss: 0.3822 - Accuracy: 0.8301
+13168.7s	151	
+13168.7s	152	========== Epoch 5/15 ==========
+14259.3s	153	Epoch 5 - Train Loss: 0.3626 - Accuracy: 0.8396
+14259.3s	154	Validation - Loss: 0.3849 - Accuracy: 0.8315
+14259.3s	155	
+14259.3s	156	========== Epoch 6/15 ==========
+15349.4s	157	[I 2025-06-01 15:24:47,047] Trial 2 finished with value: 0.38224729020640535 and parameters: {'learning_rate': 1.4297904584820136e-06, 'weight_decay': 7.1053516386025605e-06}. Best is trial 0 with value: 0.36842194709013093.
+15349.6s	158	Early stopping at epoch 6
+15349.8s	159	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+15349.8s	160	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+15350.1s	161	
+15350.1s	162	========== Epoch 1/15 ==========
+16441.2s	163	Epoch 1 - Train Loss: 0.4046 - Accuracy: 0.8150
+16441.2s	164	Validation - Loss: 0.3749 - Accuracy: 0.8324
+16441.2s	165	
+16441.2s	166	========== Epoch 2/15 ==========
+17531.2s	167	Epoch 2 - Train Loss: 0.3135 - Accuracy: 0.8650
+17531.2s	168	Validation - Loss: 0.3715 - Accuracy: 0.8369
+17531.2s	169	
+17531.2s	170	========== Epoch 3/15 ==========
+18617.2s	171	Epoch 3 - Train Loss: 0.2247 - Accuracy: 0.9093
+18617.2s	172	Validation - Loss: 0.4612 - Accuracy: 0.8325
+18617.2s	173	
+18617.2s	174	========== Epoch 4/15 ==========
+19706.1s	175	[I 2025-06-01 16:37:23,713] Trial 3 finished with value: 0.37150164550205445 and parameters: {'learning_rate': 2.9396226931741537e-05, 'weight_decay': 0.0008045770271512412}. Best is trial 0 with value: 0.36842194709013093.
+19706.3s	176	Early stopping at epoch 4
+19706.4s	177	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+19706.4s	178	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+19706.7s	179	
+19706.7s	180	========== Epoch 1/15 ==========
+20796.8s	181	Epoch 1 - Train Loss: 0.4089 - Accuracy: 0.8132
+20796.8s	182	Validation - Loss: 0.3788 - Accuracy: 0.8298
+20796.8s	183	
+20796.8s	184	========== Epoch 2/15 ==========
+21886.9s	185	Epoch 2 - Train Loss: 0.3123 - Accuracy: 0.8671
+21886.9s	186	Validation - Loss: 0.3808 - Accuracy: 0.8335
+21886.9s	187	
+21886.9s	188	========== Epoch 3/15 ==========
+22976.7s	189	[I 2025-06-01 17:31:54,306] Trial 4 finished with value: 0.37876898255550634 and parameters: {'learning_rate': 4.819484616967274e-05, 'weight_decay': 3.463983432180653e-05}. Best is trial 0 with value: 0.36842194709013093.
+22976.7s	190	Early stopping at epoch 3
+22976.7s	191	Best hyperparameters: {'learning_rate': 1.0982272372522852e-05, 'weight_decay': 1.6904013034362597e-05}
+
+
+
+
+
+60.7s	    100	========== Epoch 1/15 ==========
+1126.3s	    101	Epoch 1 - Train Loss: 0.4433 - Accuracy: 0.7923
+1126.3s	    102	Validation - Loss: 0.3987 - Accuracy: 0.8216
+1126.3s	    103	
+1126.3s	    104	========== Epoch 2/15 ==========
+2188.0s	    105	Epoch 2 - Train Loss: 0.3868 - Accuracy: 0.8266
+2188.0s	    106	Validation - Loss: 0.3819 - Accuracy: 0.8288
+2188.0s	    107	
+2188.0s	    108	========== Epoch 3/15 ==========
+3249.0s	    109	Epoch 3 - Train Loss: 0.3652 - Accuracy: 0.8378
+3249.0s	    110	Validation - Loss: 0.3821 - Accuracy: 0.8335
+3249.0s	    111	
+3249.0s	    112	========== Epoch 4/15 ==========
+4310.1s	    113	Epoch 4 - Train Loss: 0.3485 - Accuracy: 0.8481
+4310.1s	    114	Validation - Loss: 0.3761 - Accuracy: 0.8349
+4310.1s	    115	
+4310.1s	    116	========== Epoch 5/15 ==========
+5371.7s	    117	Epoch 5 - Train Loss: 0.3341 - Accuracy: 0.8555
+5371.7s	    118	Validation - Loss: 0.3821 - Accuracy: 0.8360
+5371.7s	    119
+5371.7s	    120	========== Epoch 6/15 ==========
+6432.8s	    121	[I 2025-06-02 23:21:40,914] Trial 0 finished with value: 0.3760985025201204 and parameters: {'learning_rate': 2.518983119934732e-06, 'weight_decay': 0.0017441479422189723}. Best is trial 0 with value: 0.3760985025201204.
+6433.0s	    122	Early stopping at epoch 6
+6433.2s	    123	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+6433.2s	    124	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+6433.5s	    125	
+6433.5s	    126	========== Epoch 1/15 ==========
+7501.0s	    127	Epoch 1 - Train Loss: 0.4047 - Accuracy: 0.8148
+7501.0s	    128	Validation - Loss: 0.3747 - Accuracy: 0.8329
+7501.0s	    129	
+7501.0s	    130	========== Epoch 2/15 ==========
+8569.3s	    131	Epoch 2 - Train Loss: 0.3239 - Accuracy: 0.8596
+8569.3s	    132	Validation - Loss: 0.3693 - Accuracy: 0.8378
+8569.3s	    133	
+8569.3s	    134	========== Epoch 3/15 ==========
+9637.2s	    135	Epoch 3 - Train Loss: 0.2504 - Accuracy: 0.8975
+9637.2s 	136	Validation - Loss: 0.4184 - Accuracy: 0.8335
+9637.2s 	137	
+9637.2s 	138	========== Epoch 4/15 ==========
+10705.3s	139	[I 2025-06-03 00:32:53,368] Trial 1 finished with value: 0.36928764603048003 and parameters: {'learning_rate': 1.876036621860828e-05, 'weight_decay': 0.000789091860769746}. Best is trial 1 with value: 0.36928764603048003.
+10705.5s	140	Early stopping at epoch 4
+10705.6s	141	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+10705.6s	142	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+10705.9s	143	
+10705.9s	144	========== Epoch 1/15 ==========
+11773.2s	145	Epoch 1 - Train Loss: 0.4046 - Accuracy: 0.8146
+11773.2s	146	Validation - Loss: 0.3734 - Accuracy: 0.8333
+11773.2s	147	
+11773.2s	148	========== Epoch 2/15 ==========
+12840.6s	149	Epoch 2 - Train Loss: 0.3228 - Accuracy: 0.8601
+12840.6s	150	Validation - Loss: 0.3699 - Accuracy: 0.8381
+12840.6s	151	
+12840.6s	152	========== Epoch 3/15 ==========
+13908.3s	153	Epoch 3 - Train Loss: 0.2474 - Accuracy: 0.8988
+13908.3s	154	Validation - Loss: 0.4217 - Accuracy: 0.8342
+13908.3s	155	
+13908.3s	156	========== Epoch 4/15 ==========
+14975.4s	157	[I 2025-06-03 01:44:03,483] Trial 2 finished with value: 0.3698860260506846 and parameters: {'learning_rate': 1.9634257144370012e-05, 'weight_decay': 8.899191580002131e-05}. Best is trial 1 with value: 0.36928764603048003.
+14975.6s	158	Early stopping at epoch 4
+14975.7s	159	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+14975.7s	160	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+14976.0s	161	
+14976.0s	162	========== Epoch 1/15 ==========
+16043.7s	163	Epoch 1 - Train Loss: 0.4076 - Accuracy: 0.8133
+16043.7s	164	Validation - Loss: 0.3760 - Accuracy: 0.8340
+16043.7s	165	
+16043.7s	166	========== Epoch 2/15 ==========
+17112.4s	167	Epoch 2 - Train Loss: 0.3348 - Accuracy: 0.8535
+17112.4s	168	Validation - Loss: 0.3682 - Accuracy: 0.8372
+17112.4s	169	
+17112.4s	170	========== Epoch 3/15 ==========
+18181.1s	171	Epoch 3 - Train Loss: 0.2765 - Accuracy: 0.8845
+18181.1s	172	Validation - Loss: 0.3994 - Accuracy: 0.8356
+18181.1s	173	
+18181.1s	174	========== Epoch 4/15 ==========
+19249.5s	175	[I 2025-06-03 02:55:17,599] Trial 3 finished with value: 0.36823900318932984 and parameters: {'learning_rate': 1.293040592451508e-05, 'weight_decay': 2.1436761573115605e-05}. Best is trial 3 with value: 0.36823900318932984.
+19249.7s	176	Early stopping at epoch 4
+19249.9s	177	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+19249.9s	178	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+19250.2s	179	
+19250.2s	180	========== Epoch 1/15 ==========
+20319.5s	181	Epoch 1 - Train Loss: 0.4704 - Accuracy: 0.7766
+20319.5s	182	Validation - Loss: 0.4129 - Accuracy: 0.8132
+20319.5s	183	
+20319.5s	184	========== Epoch 2/15 ==========
+21388.4s	185	Epoch 2 - Train Loss: 0.4075 - Accuracy: 0.8156
+21388.4s	186	Validation - Loss: 0.3965 - Accuracy: 0.8212
+21388.4s	187	
+21388.4s	188	========== Epoch 3/15 ==========
+22457.2s	189	Epoch 3 - Train Loss: 0.3898 - Accuracy: 0.8248
+22457.2s	190	Validation - Loss: 0.3907 - Accuracy: 0.8263
+22457.2s	191	
+22457.2s	192	========== Epoch 4/15 ==========
+23526.0s	193	Epoch 4 - Train Loss: 0.3770 - Accuracy: 0.8323
+23526.0s	194	Validation - Loss: 0.3840 - Accuracy: 0.8286
+23526.0s	195	
+23526.0s	196	========== Epoch 5/15 ==========
+24595.2s	197	Epoch 5 - Train Loss: 0.3675 - Accuracy: 0.8367
+24595.2s	198	Validation - Loss: 0.3861 - Accuracy: 0.8305
+24595.2s	199	
+24595.2s	200	========== Epoch 6/15 ==========
+25664.4s	201	[I 2025-06-03 04:42:12,484] Trial 4 finished with value: 0.3840255624505709 and parameters: {'learning_rate': 1.2758890956353847e-06, 'weight_decay': 1.8427090595864374e-06}. Best is trial 3 with value: 0.36823900318932984.
+25664.6s	202	Early stopping at epoch 6
+25664.7s	203	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+25664.7s	204	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+25665.0s	205	
+25665.0s	206	========== Epoch 1/15 ==========
+26733.9s	207	Epoch 1 - Train Loss: 0.4208 - Accuracy: 0.8047
+26733.9s	208	Validation - Loss: 0.3846 - Accuracy: 0.8302
+26733.9s	209	
+26733.9s	210	========== Epoch 2/15 ==========
+27802.8s	211	Epoch 2 - Train Loss: 0.3605 - Accuracy: 0.8405
+27802.8s	212	Validation - Loss: 0.3715 - Accuracy: 0.8361
+27802.8s	213	
+27802.8s	214	========== Epoch 3/15 ==========
+28871.8s	215	Epoch 3 - Train Loss: 0.3268 - Accuracy: 0.8587
+28871.8s	216	Validation - Loss: 0.3801 - Accuracy: 0.8390
+28871.8s	217	
+28871.8s	218	========== Epoch 4/15 ==========
+29940.5s	219	[I 2025-06-03 05:53:28,533] Trial 5 finished with value: 0.3715498957768926 and parameters: {'learning_rate': 5.864591707291439e-06, 'weight_decay': 0.0007033470812998789}. Best is trial 3 with value: 0.36823900318932984.
+29940.7s	220	Early stopping at epoch 4
+29940.8s	221	Some weights of DistilBertForSequenceClassification were not initialized from the model checkpoint at distilbert-base-uncased and are newly initialized: ['classifier.bias', 'classifier.weight', 'pre_classifier.bias', 'pre_classifier.weight']
+29940.8s	222	You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+29941.1s	223	
+29941.1s	224	========== Epoch 1/15 ==========
+31009.8s	225	Epoch 1 - Train Loss: 0.4209 - Accuracy: 0.8047
+31009.8s	226	Validation - Loss: 0.3846 - Accuracy: 0.8302
+31009.8s	227	
+31009.8s	228	========== Epoch 2/15 ==========
+32078.6s	229	Epoch 2 - Train Loss: 0.3606 - Accuracy: 0.8405
+32078.6s	230	Validation - Loss: 0.3714 - Accuracy: 0.8360
+32078.6s	231	
+32078.6s	232	========== Epoch 3/15 ==========
+33147.8s	233	Epoch 3 - Train Loss: 0.3269 - Accuracy: 0.8587
+33147.8s	234	Validation - Loss: 0.3800 - Accuracy: 0.8390
+33147.8s	235	
+33147.8s	236	========== Epoch 4/15 ==========
+34216.6s	237	[I 2025-06-03 07:04:44,678] Trial 6 finished with value: 0.37140574334927323 and parameters: {'learning_rate': 5.843070182076244e-06, 'weight_decay': 5.235767503059212e-05}. Best is trial 3 with value: 0.36823900318932984.
+34216.6s	238	Early stopping at epoch 4
+34216.6s	239	Best hyperparameters: {'learning_rate': 1.293040592451508e-05, 'weight_decay': 2.1436761573115605e-05}
