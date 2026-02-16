@@ -51,7 +51,7 @@ Each sub-directory contains its own notebooks and datasets. To replicate the res
 4.  Run the Jupyter Notebooks located in the `notebooks/` directory.
 
 *Developed as coursework for YS19:Artificial Intelligence II (Deep Machine Learning for Natural Language Processing), course of DIT, UoA. The assignment for each project
-can be found in the report directory*
+can be found in the report directory*.
 <br>
 
 ## Author
