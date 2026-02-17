@@ -24,5 +24,5 @@ Before feeding data into the model, extensive cleaning was performed:
 * `data/`: Contains the raw Twitter datasets.
 
 ## Results
-* **Accuracy:** Achieved approx. 77% on the validation set.
+* **Accuracy:** Achieved approx. 79% on the validation set.
 * **Observations:** The model struggles with context (e.g., "not bad" might be classified as negative due to the word "bad").
