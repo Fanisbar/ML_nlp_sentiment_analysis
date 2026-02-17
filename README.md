@@ -26,9 +26,9 @@ each part's report.
 
 | Approach | Model Architecture | Feature Extraction | Accuracy (Test) | Key Takeaway |
 | :--- | :--- | :--- | :--- | :--- |
-| **Project 1** | Logistic Regression | TF-IDF | **~77%** | Strong baseline, highly interpretable, fast training. |
-| **Project 2** | Feed-Forward NN (PyTorch) | Word2Vec (Gensim) | **~81%** | Captures semantic relationships but requires careful tuning. |
-| **Project 3** | **BERT / DistilBERT** | Transformer Embeddings | **~90%** | **SOTA performance**; understands context, sarcasm, and complex syntax. |
+| **Project 1** | Logistic Regression | TF-IDF | **~80%** | Strong baseline, highly interpretable, fast training. |
+| **Project 2** | Feed-Forward NN (PyTorch) | Word2Vec (Gensim) | **~78%** | Captures semantic relationships but requires careful tuning and large datasets. |
+| **Project 3** | **BERT / DistilBERT** | Transformer Embeddings | **~85%** | **SOTA performance**; understands context, sarcasm, and complex syntax. |
 
 *> Note: Detailed experiments, learning curves, and confusion matrices can be found in the report PDF of each sub-project.*
 
