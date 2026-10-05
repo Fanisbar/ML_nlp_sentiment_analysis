@@ -38,7 +38,7 @@ Each sub-directory contains its own notebooks and datasets. To replicate the res
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/Fanisbar/ML_sentiment_analysis.git
+    git clone https://github.com/Fanisbar/ML_nlp_sentiment_analysis.git
     ```
 2.  Navigate to the desired project folder (e.g., for BERT):
     ```bash
@@ -50,12 +50,5 @@ Each sub-directory contains its own notebooks and datasets. To replicate the res
     ```
 4.  Run the Jupyter Notebooks located in the `notebooks/` directory.
 
-*Developed as coursework for YS19:Artificial Intelligence II(Deep Machine Learning for Natural Language Processing), course of DIT, UoA. The assignment for each project
-can be found in the report directory*.
+*Developed as coursework for YS19:Artificial Intelligence II(Deep Machine Learning for Natural Language Processing), course of Department of Informatics and Telecommunications(DIT), UoA. The assignment for each project can be found in the report directory*.
 <br>
-
-## Author
-
-* **Theofanis Barmparosos - Θεοφάνης Μπαρμπαρόσος**
-* **ID**: sdi2200107
-* **Institution**: Department of Informatics and Telecommunications(DIT), UoA  
